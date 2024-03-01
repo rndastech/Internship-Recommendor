@@ -1,14 +1,14 @@
 # ML-Pupils
-Title: Internship Opportunity Predictor and Skill Planner
+Title: Internship Opportunity Recommendor and Skill Planner
 
 Description:
-The Internship Opportunity Predictor and Skill Planner is a comprehensive web-based platform designed to assist students in identifying the most suitable internship opportunities based on their skills and preferences while also guiding them through skill acquisition with a personalized learning plan. Leveraging machine learning (ML) algorithms, the system analyzes various factors including student interests, industry trends, and internship requirements to provide tailored recommendations.
+The Internship Opportunity Recommendor and Skill Planner is a comprehensive web-based platform designed to assist students in identifying the most suitable internship opportunities based on their skills and preferences while also guiding them through skill acquisition with a personalized learning plan. Leveraging machine learning (ML) algorithms, the system analyzes various factors including student interests, industry trends, and internship requirements to provide tailored recommendations.
 
 Key Features:
 
 1. Profile Creation: Students begin by creating a profile on the platform, inputting their educational background, skills, interests, and career goals. This information serves as the basis for personalized recommendations.
 
-2. Internship Opportunity Prediction: The ML model has been trained on data from various sources such as job postings, industry reports, and student feedback. By correlating this data with student profiles, it predicts internship opportunities that align with their skills and career aspirations.
+2. Internship Opportunity Recommendation: The ML model has been trained on data from various sources such as job postings, industry reports, and student feedback. By correlating this data with student profiles, it predicts internship opportunities that align with their skills and career aspirations.
 
 3. Skill Gap Analysis: Upon receiving internship recommendations, the system conducts a thorough analysis of the skills required for each opportunity and compares them against the student's existing skill set. It identifies any gaps and areas for improvement.
 
