@@ -1,6 +1,8 @@
 # ML-Pupils
 Title: Internship Opportunity Recommendor and Skill Planner
 
+Note: app.py is used to start Flask server for project deployment
+
 Description:
 The Internship Opportunity Recommendor and Skill Planner is a comprehensive web-based platform designed to assist students in identifying the most suitable internship opportunities based on their skills and preferences while also guiding them through skill acquisition with a personalized learning plan. Leveraging machine learning (ML) algorithms, the system analyzes various factors including student interests, industry trends, and internship requirements to provide tailored recommendations.
 
