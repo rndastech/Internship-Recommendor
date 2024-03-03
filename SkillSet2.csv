@@ -1,0 +1,1316 @@
+Skill,Companies,Popularity Index
+Java Development,"TechGuru, ByteBlast, CodeCrafters",72
+Accounting and Financing,"FinanceHub, TaxMasters, Capital Consultants",65
+Sales & Digital Marketing,"SalesBoost, DigitalDynamos, MarketMovers",80
+Social Entrepreneurship,"ImpactInitiative, ChangeMakers, SocialVentures",75
+Videography & Photography,"LensCraft, FocalPoint, CaptureItAll",70
+English Curriculum Writing,"LanguageLoom, GrammarGenius, LiteracyLab",60
+Search Engine Optimization (SEO),"RankRangers, SEOPro, SearchSavvy",78
+Graphic Design,"PixelPulse, DesignDuo, CreativeCanvas",68
+Campus Ambassador,"CampusConnect, StudentAmbassadorNetwork, UniEngage",50
+Customer Support Management,"SupportSquad, ServiceSolutions, HelpDeskHeroes",75
+Bilingual Content Writing,"LingoLancers, PolyglotPen, DualWords",55
+Office Operations,"OfficeOptimize, WorkplaceWizards, BusinessBureau",62
+Design,"ArtistryStudio, DesignHub, CreativeCrafters",70
+Copywriting,"CopyCraft, WordWizards, TextTalent",65
+Social Media And Influencer Marketing,"SocialSphere, InfluenceHub, MediaMagnet",82
+Customer Success,"ClientChampions, SuccessSolutions, SatisfactionSpecialists",77
+Instagram/TikTok Reel Creation,"InstaFame, TikTokTrend, SocialReelers",75
+Corporate Sales,"CorporateConnections, EnterpriseEngage, BusinessBoosters",80
+Product Management,"ProductPros, ManagementMasters, ProductivityPlus",76
+Influencer Marketing,"InfluenceInc, BrandBoosters, SocialStars",85
+Media And Public Relations (PR),"MediaMoguls, PRPowerhouse, PressPros",72
+Law/Legal,"LegalEagle, LawFirm, LegalLuminaries",70
+Human Resources (HR),"HRHub, TalentTrove, PeoplePartners",78
+PHP Laravel Development,"PHPPro, LaravelExperts, CodeCrafters",68
+Social Work,"SocialSolutions, CommunityCatalyst, HelpingHands",75
+Social (Fundraising),"FundraisingHeroes, CharityChampions, CauseCreators",80
+Sales,"SalesStrategics, SellingSolutions, DealMakers",75
+Sales Executive,"SalesStars, SalesSavvy, SalesSense",72
+Marketing,"MarketMasters, BrandBuilders, PromotionPros",80
+Recruitment,"RecruitRight, TalentTorch, HiringHeroes",75
+UX Design,"UserExperiencePros, DesignDynamo, InterfaceInnovators",78
+HR Consultant,"HRConsulting, TalentTactics, PeoplePartners",72
+L&D,"LearningLeaders, TrainingTitans, DevelopmentDynamos",68
+Launch Management,"LaunchLeaders, ProductPushers, StartUpSavvy",70
+HR - Talent Acquisition,"TalentTorch, HiringHeroes, RecruitmentRocks",75
+Customer Support,"SupportSquad, ServiceSolutions, HelpDeskHeroes",72
+Generative Adversarial Networks,"AIInnovators, MLExperts, DataDynamo",85
+Node.js Development,"NodeNinjas, JSJuggernauts, WebWizards",80
+Technical Content Writing,"TechTales, CodeChronicles, GeekGrammar",75
+MERN Stack Development,"MERNMasters, StackSavvy, DevDynamos",78
+ReactJs Development,"ReactRangers, JSJuggernauts, FrontendFanatics",82
+Python Django Development,"DjangoDynamo, PythonPros, WebWizards",75
+Python Automation,"AutoAvengers, PyPros, ScriptSavvy",70
+HR & Admin,"HRHeroes, AdminAlliance, PeoplePartners",72
+Resource Management,"ResourceRangers, TalentTactics, StaffSavvy",68
+Project Management,"ProjectPros, ManagementMasters, OrganizeOps",75
+Business Development,"BizBoosters, GrowthGurus, ExpansionExperts",80
+Business Development (Sales),"SalesStrategics, SellingSolutions, DealMakers",75
+Sales Promotion,"PromotionPros, SalesSavvy, MarketingMasters",72
+UI Design,"InterfaceInnovators, DesignDynamo, VisualVirtuosos",78
+Project Management (Marketing),"MarketingMasters, BrandBuilders, PromotionPros",75
+Finance & Accounting,"FinanceFusion, AccountancyAlliance, MoneyMasters",80
+Customer Relationship,"ClientChampions, RelationshipRangers, SatisfactionSquad",78
+Talent Acquisition,"TalentTorch, HiringHeroes, RecruitmentRocks",75
+Communication & Project Management,"CommChampions, ProjectPros, CoordinationCrew",70
+Logistics And Operations,"LogisticsLeaders, OperationOptimize, SupplySavvy",75
+Event Management,"EventExperts, CoordinationCrew, FunctionFusion",72
+Content Writing,"ContentCrafters, WordWizards, TextTalent",75
+Environment Education Program (Mumbai),"EcoEd, GreenGurus, ConservationCrew",65
+Finance,"FinanceFusion, CapitalConsultants, MoneyMasters",78
+Customer Service,"ServiceSolutions, SatisfactionSquad, SupportSquad",75
+Legal,"LegalEagle, LawFirm, LegalLuminaries",70
+Fundraising,"FundraisingHeroes, CharityChampions, CauseCreators",80
+New Client Acquisition, Key Accounts Management,82
+Omni Sport Leadership - Hiking/Trekking,"AdventureAlliance, TrailTrekkers, SummitSeekers",70
+Business Development Management,"BizBoosters, GrowthGurus, ExpansionExperts",75
+Data Entry With Marketing,"DataDynamo, EntryExperts, MarketMasters",68
+Operations,"OperationOptimize, FunctionFusion, CoordinationCrew",75
+HR Operations,"HRHeroes, AdminAlliance, PeoplePartners",72
+Guest Relation Operations,"GuestGurus, HospitalityHeroes, ServiceSavvy",70
+Event Coordination,"EventExperts, CoordinationCrew, FunctionFusion",75
+Induction Representation,"NewbieNurturers, OnboardingExperts, WelcomeWizards",72
+Field Sales,"FieldForces, SalesStars, DealMakers",75
+City Management,"UrbanUnity, CivicChampions, MunicipalMasters",70
+Social Media Management,"SocialSavvy, MediaMasters, CommunityCatalysts",78
+Video Editor,"EditExperts, ClipCrafters, FilmFusion",75
+Social Media Marketing,"SocialSphere, InfluenceInc, MediaMagnet",80
+Omni Sports Leader,"SportsSavvy, AdventureAlliance, GameGurus",72
+Telecalling,"CallChampions, PhonePros, CommunicationCrew",75
+Company Secretary (CS),"CorporateSecrets, ComplianceChamps, BoardroomBuddies",70
+Webinar Operations & Strategy,"WebinarWizards, StrategySavvy, VirtualVirtuosos",75
+Social Media Manager,"SocialSavvy, MediaMasters, CommunityCatalysts",72
+Journalism,"NewsNinjas, PressPros, JournalismJuggernauts",75
+Business Operations,"OperationOptimize, FunctionFusion, CoordinationCrew",75
+Online Reputation Management,"ReputationRangers, ReviewRangers, OnlineOps",72
+Strategy and Research,"StrategicSavvy, ResearchRangers, InsightInnovators",75
+HR,"HRHub, TalentTrove, PeoplePartners",75
+Web Maintenance,"SiteSavers, WebWizards, MaintenanceMasters",72
+User Research,"UserUnderstanding, ResearchRangers, UXUtopia",70
+Nutraceuticals-Project,"NutriNinjas, HealthHeroes, WellnessWarriors",75
+Sales Administration,"SalesSupport, AdminAlliance, DealDynamo",72
+Marketing And Communications,"CommChampions, MarketingMasters, BrandBuilders",75
+Program Operations,"OperationOptimize, FunctionFusion, CoordinationCrew",72
+Volunteering,"VolunteerVanguards, CharityChampions, HelpHeroes",70
+Graphic And Content,"DesignDuo, ContentCrafters, VisualVirtuosos",75
+DEI Consulting,"DiversityDynamo, InclusionInnovators, EquityExperts",72
+Angular UI Development & UI Design,"AngularArtisans, DesignDynamo, InterfaceInnovators",75
+Teaching GPAT And Pharmacy Exams,"PharmaProfessors, GPAGurus, StudySavvy",70
+Business Operations And Research,"OperationOptimize, FunctionFusion, CoordinationCrew",75
+Business Development & Brand Solution,"BizBoosters, BrandBuilders, GrowthGurus",78
+Supply Chain & Logistics Operations,"SupplySavvy, LogisticsLeaders, OperationOptimize",75
+Motion Design,"MotionMasters, DesignDynamo, VisualVirtuosos",72
+Sales Trainee,"SalesStrategics, SellingSolutions, DealMakers",70
+Retail Management,"RetailRulers, StoreSavvy, ShopSuccess",75
+Operation Analyst,"OperationOptimize, AnalysisAlliance, EfficiencyExperts",72
+Omni Sports Leadership,"SportsSavvy, AdventureAlliance, GameGurus",75
+Omni Sports Leading,"SportsSavvy, AdventureAlliance, GameGurus",72
+IT Coordination,"TechTitans, CoordinationCrew, ConnectionCreators",70
+Software Development – Vāgyojaka Tool,"CodeCrafters, TechTitans, DevDynamos",75
+Omni Sport Leader,"SportsSavvy, AdventureAlliance, GameGurus",72
+Youtube Management,"YouTubeYoda, VideoVirtuosos, ChannelChampions",70
+Public Relations,"PressPros, MediaMasters, PRPowerhouse",75
+Sales (Real Estate),"EstateExperts, PropertyPros, RealtyRangers",72
+Customer Experience,"ClientChampions, SatisfactionSquad, SupportSavvy",70
+Insurance Consulting,"InsureInsight, PolicyPros, CoverageConsultants",75
+Curriculum Development,"CurriculumCrafters, EducationExperts, LearningLeaders",72
+Digital Marketing,"DigitalDynamos, MarketMasters, PromotionPros",80
+Lead HR (Admin),"HRHeroes, AdminAlliance, PeoplePartners",75
+Content Creation & Ideation,"ContentCrafters, IdeaInnovators, CreativeCanvas",72
+Technical Finance,"FinanceFusion, MoneyMasters, TechTactics",70
+Media And Social Media Management,"MediaMasters, SocialSavvy, CommunityCatalysts",78
+Digital Media Monitoring/Content Analytics,"MediaMetrics, DigitalDynamos, DataDynamo",75
+Digital And Cartoon Artist,"DigitalDynamo, ArtistryAlliance, GraphicGenius",72
+Content Marketing,"ContentCrafters, MarketMasters, PromotionPros",75
+Social Media Research/Scouting,"SocialScouts, MediaMavens, TrendTrackers",70
+Video Making/Editing,"VideoVirtuosos, EditExperts, FilmFusion",75
+YouTube Marketing,"YouTubeYoda, ChannelChampions, VideoVirtuosos",72
+Marketing (Sunburn),"SunburnSavvy, FestivalFanatics, PartyPlanners",75
+Content Developement (DIY Videos),"DIYDynamos, ContentCrafters, VideoVirtuosos",72
+US Sales Process (Female),"SalesSisters, DealDuo, NegotiationNinjas",70
+Chartered Accountancy (CA),"FinanceFusion, MoneyMasters, TaxTacticians",75
+Content Writing (Education),"EduEssentials, WritingWizards, StudySavvy",72
+Computer Operations,"TechTitans, SystemSavvy, DataDynamo",70
+Creative Design,"DesignDynamo, ArtistryAlliance, InnovationInnovators",75
+Subject Matter Expert (Mathematics) - Doubt Solving,"MathMasters, ProblemPros, TutorTitans",72
+Content Writing (Art & Craft),"ArtistryAlliance, CraftCrafters, CreativeCanvas",70
+Content Writing (Fashion & Lifestyle),"FashionFusion, StyleSavvy, TrendTacticians",75
+Web Development,"WebWizards, CodeCrafters, DesignDynamo",78
+Web Content Development,"WebWizards, ContentCrafters, WritingWonders",75
+Video Editing,"EditExperts, FilmFusion, ClipCrafters",72
+UI/UX Design,"InterfaceInnovators, DesignDynamo, VisualVirtuosos",70
+Data Entry,"DataDynamo, EntryExperts, InputInnovators",75
+Brand Management,"BrandBuilders, MarketingMasters, PromotionPros",72
+HR And Market Research,"HRHub, ResearchRangers, TalentTactics",70
+Civil Engineering,"CivilCrafters, StructureSavvy, InfrastructureInnovators",75
+Digital Marketing (Meme & Carousel Making),"MemeMasters, DigitalDynamos, MarketMakers",72
+General Management,"ManagementMasters, StrategySavvy, LeadershipLegends",70
+Legal Content Curation,"LegalLibrary, ContentCrafters, RegulationRangers",75
+English Content Curation (IELTS),"LanguageLibrary, EnglishExperts, LiteratureLegends",72
+Field And Digital Marketing,"MarketingMix, DigitalDynamos, FieldForces",70
+YouTube SEO,"YouTubeYoda, SEOExperts, VideoVirtuosos",75
+Quality Analytics,"QualityQuotient, DataDynamo, AnalysisAlliance",72
+Growth Hacking,"GrowthGurus, MarketingMavericks, StrategySavvy",70
+Purchase Management,"ProcurementPros, PurchasePioneers, AcquisitionAlliance",75
+Telecalling & Administration,"CallChampions, CommunicationCrew, AdminAlliance",72
+Furniture/Product Design,"DesignDynamo, ProductPioneers, CraftCrafters",70
+Inside Sales,"SalesSavvy, InsideInsiders, DealMakers",75
+Growth (Marketing),"MarketingMomentum, MarketMasters, PromotionPros",72
+Travel Research And Data Entry,"TravelTrek, DataDynamo, JourneyJuggernauts",70
+Sales Executive,"SalesStrategics, SellingSolutions, DealMakers",75
+Teaching (Python/Java/C++/Kotlin/Go/Javascript/Swift/Scala/Ruby),"CodeCrafters, LearningLeaders, TechTitans",72
+Coordination,"CoordinationCrew, CommunicationChamps, ConnectionCreators",70
+E-Commerce Marketing,"EcommerceExperts, MarketMasters, SalesSavvy",75
+Content Development (English),"WritingWonders, LanguageLegends, GrammarGenius",72
+Probability,"ProbabilisticPros, ChanceChampions, StatisticsSavvy",70
+Credit Analytics,"CreditCrafters, FinancialForefront, RiskRangers",75
+Trainer (Teaching VLSI Front-end Designing Or VLSI Back-end Designing Course),"VLSIVisionaries, TrainingTitans, InstructionInnovators",72
+Fundraising/Crowdfunding,"FundraisingHeroes, CharityChampions, CauseCreators",70
+Psychology ( Marketing),"MindMasters, ConsumerCognition, PersuasionPros",75
+IPad Art,"ArtistryAlliance, DigitalDynamo, DesignDuo",72
+Torchbearer Impact Program,"ImpactInitiative, ChangeChampions, LeadershipLegends",70
+Technical Architecture,"TechTitans, DesignDynamo, InnovationInnovators",75
+Social Impact Leading,"ImpactInitiative, ChangeChampions, LeadershipLegends",72
+Social Sector Operations,"SocialSolutions, ChangeChampions, CommunityCatalysts",70
+Product Marketing,"ProductPromoters, MarketMasters, BrandBuilders",75
+Sales And Marketing,"SalesSavvy, MarketMasters, PromotionPros",72
+Subject Matter Expert (Physics) Live Doubts,"PhysicsPros, ProblemPioneers, TutorTitans",70
+Digital Marketing (Email Marketing),"EmailExperts, MarketingMavens, DigitalDynamos",75
+Sales (Tele-marketing),"SalesSavvy, CommunicationCrew, DealDuo",72
+Ruby On Rails Development,"RubyRangers, CodeCrafters, WebWizards",70
+Physics Content Writing,"PhysicsProse, WritingWonders, ScientificScribes",75
+Subject Matter Expert (Chemistry) Live Doubt,"ChemistryChampions, ProblemPioneers, TutorTitans",72
+Content Writing (Chemistry),"ChemicalCrafters, WritingWonders, ScientificScribes",70
+AWS DevOps Engineering,"AWSAces, DevOpsDynamos, CloudCrafters",75
+Market Research (Fashion),"FashionFindings, StyleSavvy, TrendTrackers",72
+Angular.js Development,"AngularArtisans, CodeCrafters, WebWizards",70
+Electrical Engineering,"ElectroExperts, TechTitans, PowerPioneers",75
+Operation,"OperationOptimize, FunctionFusion, CoordinationCrew",72
+Business Development (Female),"BizBoosters, GrowthGurus, ExpansionExperts",70
+Interior Design,"DesignDuo, InteriorInnovators, DecorDynamo",75
+Personal Assistant,"AssistanceAlliance, HelpHeroes, TaskTitans",72
+CEO Assistant,"LeadershipLegends, ExecutiveExpediters, ChiefChampions",70
+Motion Graphics,"MotionMasters, DesignDynamo, VisualVirtuosos",75
+Civil Engineering (Hydraulic/Water Resources),"HydroHeroes, WaterWorks, InfrastructureInnovators",72
+Email Marketing,"EmailExperts, MarketingMavens, DigitalDynamos",70
+Social Media,"SocialSavvy, MediaMasters, CommunityCatalysts",75
+Editorial Assistance,"EditorialExperts, WritingWizards, ProofingPros",72
+E-commerce Operations,"EcommerceExperts, OperationOptimize, SalesSavvy",70
+Marketing Specialist,"MarketingMavens, PromotionPros, BrandBuilders",75
+EXPO - Project Coordination,"ExpoExperts, EventExecution, CoordinationCrew",72
+Marketing Lead,"MarketingMasters, PromotionPros, BrandBuilders",70
+Visual Communication,"VisualVirtuosos, DesignDynamo, ArtistryAlliance",75
+Motion Graphics Design,"MotionMasters, DesignDynamo, VisualVirtuosos",72
+Telesales,"SalesSavvy, CommunicationCrew, DealDuo",70
+Embedded & IoT Development,"EmbeddedExperts, IoTInnovators, TechTitans",75
+Customer Delight,"ClientChampions, SatisfactionSquad, SupportSavvy",72
+Climate Storytelling,"EcoEngagement, EnvironmentalExperts, SustainabilityScribes",70
+Solid Works 3D Printing,"SolidSculptors, PrintingPros, DesignDuo",75
+Auditing And Accounting,"AuditAlliance, FinanceFusion, MoneyMasters",72
+HR Recruitment,"HRHeroes, TalentTactics, RecruitmentRocks",70
+QA Engineering,"QualityQuotient, TechTitans, TestingTrendsetters",75
+Subject Matter Expert - Cyber Security,"SecuritySavvy, CyberChampions, TechTitans",72
+Cyber Security,"SecuritySavvy, CyberChampions, TechTitans",70
+Data Entry Executive,"DataDynamo, EntryExperts, InputInnovators",75
+Financial Analysis,"FinanceFusion, MoneyMasters, AnalysisAlliance",72
+Virtual Volunteering,"VirtualVanguards, HelpHeroes, GlobalGood",70
+Subject Matter Expert (SME),"SubjectSavvy, ProblemPros, TutorTitans",75
+Computer Teaching,"TechTutors, CodingCoaches, InstructionInnovators",72
+Robotics Embedded Engineering,"RoboRevolution, TechTitans, AIAlliance",70
+Equity & Derivatives Trading,"TradeTitans, MarketMasters, FinanceFusion",75
+IT Infra/Devops,"TechTitans, DevOpsDynamos, CloudCrafters",72
+Crowdfunding,"FundraisingHeroes, CharityChampions, CauseCreators",70
+Business Development (Field Sales),"BizBoosters, GrowthGurus, ExpansionExperts",75
+Sales Consultant,"SalesSavvy, ConsultingChampions, DealDuo",72
+Fundraising Operations,"FundraisingHeroes, CharityChampions, CauseCreators",70
+Social Media Research,"SocialScouts, TrendTrackers, MediaMetrics",75
+YouTube Creation,"YouTubeYoda, VideoVirtuosos, ChannelChampions",72
+Content Writing (Academic),"AcademicAuthors, WritingWonders, EduEssentials",70
+Voice Over Artist - Marati/Gujarathi/Assame With Editing Skills,"VoiceVirtuosos, MultilingualMasters, SoundSavvy",75
+Market Research,"MarketMasters, ResearchRangers, DataDynamo",72
+Empowering Social Entrepreneurs,"ImpactInitiative, ChangeChampions, LeadershipLegends",70
+PR & Marketing,"PressPros, PromotionPros, MediaMasters",75
+Guest Relations Management,"GuestGurus, HospitalityHeroes, ServiceSavvy",72
+Customer Service Executive,"ServiceSavvy, SatisfactionSquad, SupportSavvy",70
+Content Management,"ContentCrafters, OrganizationOps, WritingWonders",75
+Script Writing (Non-Fiction),"ScriptSavvy, WritingWizards, TextTalent",72
+Copywriting And Reel Creation,"CopyCrafters, ReelRangers, WritingWizards",70
+E-commerce Executive,"EcommerceExperts, SalesSavvy, OperationOptimize",75
+Strategy And Development,"StrategicSavvy, GrowthGurus, InnovationInnovators",72
+Category Management,"CategoryChampions, SalesStrategics, MarketingMasters",70
+Management (Work From Office),"Global Business Ltd, Office Solutions Inc, Executive Enterprises",70
+Social Media Community Building,"Socialize Inc, Community Builders Co, Media Connection",55
+Sales CRM,"Sales Solutions Ltd, CRM Experts Inc, Lead Management Co",92
+Celebrity Onboarding,"Star Connect Inc, Fame Partners Ltd, VIP Access Co",40
+Mental Health Helpline Crisis Counseling,"Mental Health Support Inc, Crisis Care Solutions, Helpline Helpers",80
+Social Media Sales,"Social Sales Agency, Online Marketplace Ltd, Media Sales Co",65
+Marketing And Sales,"Market Dynamics Inc, SalesGenius Solutions, SalesPro Co",75
+Video Editing & Voiceover,"Video Masters Inc, Sound & Vision Studios, EditPro Co",85
+Project Management/Operations Management,"Project Leaders Inc, Operations Experts Ltd, Management Solutions",90
+WordPress Development,"WP Experts Ltd, WebPress Solutions, WP Wizards Inc",80
+Lead Generation,"Lead Masters Inc, LeadGen Solutions, Sales Leads Co",70
+Virtual Charity Drive,"Virtual Impact Inc, Charity Champions Ltd, Impactful Co",45
+Nest Js And Backend Development,"Nest Developers Ltd, Backend Solutions Inc, Tech Nest Co",75
+Teaching,"EduVision Ltd, TeachPro Solutions, LearnTech Inc",85
+Subject Matter Expert (Operations Management),"Ops Mastery Solutions, Management Experts Inc, SME Leaders Ltd",60
+Online Marketing,"Online Marketing Experts Ltd, Digital Presence Solutions, Web Marketing Co",80
+Strategy,"Strategic Planning Ltd, Business Strategy Inc, Strategy Masters Co",85
+US IT Recruitment,"US Talent Solutions Ltd, IT Recruitment Inc, Global Tech Recruiters",70
+Marketing & Growth,"Growth Marketing Solutions, Marketing Innovators Ltd, MarketGrowth Co",75
+History (Subject Matter Expert),"History Experts Ltd, Historical Insights Inc, Subject Matter Mastery Co",55
+HR (Talent Acquisition),"Talent Solutions Inc, HR Experts Ltd, Talent Recruitment Co",90
+iOS App Development,"iOS Experts Ltd, App Development Inc, Mobile Solutions Co",80
+Social Cause,"Cause Leaders Ltd, Social Impact Inc, Change Makers Co",65
+Fundraising Volunteering,"Fundraising Solutions Inc, Volunteering Connect Ltd, Charity Fundraisers Co",50
+Meme Creation,"Meme Masters Ltd, Humor Solutions Inc, Viral Content Co",30
+Infographics - Assame/Gujarathi/Punjabi,"Infographics Experts Ltd, Language Design Solutions, Regional Graphics Co",40
+Stock Market Research,"Market Insights Ltd, Stock Analysis Solutions, Equity Research Co",85
+Investor Management - Trainee,"Investor Solutions Inc, Trainee Investors Ltd, Investment Support Co",60
+Payroll,"Payroll Solutions Ltd, Payroll Management Inc, Pay Experts Co",80
+Market Survey Vishakapatnam To Vijayawada,"Survey Solutions Inc, Market Research Ltd, Survey Masters Co",70
+Party Styling And Content Creation,"Party Planning Solutions, Styling Experts Ltd, Content Creators Co",45
+Front End Development,"Frontend Solutions Inc, Web Development Experts, UI/UX Co",90
+Teaching (Scratch Coding),"Coding Academy Ltd, Scratch Masters Inc, Learn to Code Co",75
+Grant/Investment Pitch Deck Making (VCs & Angels),"Investment Presentations Ltd, Pitch Deck Experts, Funding Solutions Co",65
+Digital Marketing (SMM),"SMM Solutions Ltd, Social Media Marketing Experts, Digital Marketers Co",85
+FundFair Operations,"Fundraising Solutions Ltd, Event Management Inc, Fair Operations Co",50
+Link Building,"Link Building Experts Ltd, SEO Solutions Inc, Backlink Co",70
+Content Presenting - Business,"Business Content Solutions, Presentation Experts Ltd, Content Strategy Co",80
+Teaching Arabic,"Arabic Language Academy, Language Teaching Solutions, Arabic Experts Co",55
+Creative Operations,"Creative Solutions Inc, Operations Management Ltd, Creative Management Co",75
+UPSC Creative Content Curation,"UPSC Content Creators, Creative Curation Ltd, Content Innovators Co",65
+Coding - Teaching,"Coding Academy Ltd, TeachCode Solutions, Code Masters Co",85
+Fashion Merchandising,"Fashion Merchandisers Ltd, Retail Solutions Inc, Fashion Experts Co",80
+LinkedIn Marketing And Sales,"LinkedIn Solutions Inc, Marketing Professionals Ltd, Sales Strategies Co",70
+Fashion Communications,"Fashion Communications Inc, Fashion PR Solutions, Fashion Communication Co",90
+Subject Matter Expert (SME) Chemistry,"Chemistry Experts Ltd, SME Solutions Inc, Chemistry Mastery Co",80
+Visual Design,"Design Masters Ltd, Visual Solutions Inc, Design Innovators Co",75
+Performance Marketing,"Performance Marketing Inc, Marketing Experts Ltd, Growth Strategies Co",85
+Client Success,"Success Solutions Inc, Client Management Ltd, Customer Success Co",90
+Hindi Content Writing,"Hindi Content Solutions, Language Experts Ltd, Hindi Writers Co",65
+Fashion Technology/Merchandising (NIFT),"NIFT Solutions Inc, Fashion Technology Experts, Merchandising Co",55
+Fashion Merchandising (NIFT),"NIFT Merchandisers Ltd, Retail Solutions Inc, Fashion Merchandising Co",70
+Fashion Design (NIFT),"NIFT Designers Ltd, Fashion Design Solutions, Design Innovators Co",85
+Social Media Creative Writing,"Creative Writing Solutions Inc, Social Media Writers Ltd, Content Creators Co",75
+Instagram Ad Copywriting,"Ad Copy Solutions Inc, Instagram Experts Ltd, Copywriting Co",80
+On-Ground Operations,"Operations Solutions Inc, On-Ground Experts Ltd, Event Management Co",60
+Business Development (Sales - Ortho/Medical),"Medical Sales Solutions, Ortho Business Development, Sales Strategies Co",85
+MIS,"MIS Solutions Inc, Management Information Systems Ltd, MIS Experts Co",75
+Digital Marketing & Prompt Development,"Digital Marketing Solutions, Prompt Development Ltd, Marketing Co",90
+Taxation,"Tax Solutions Inc, Tax Experts Ltd, Taxation Co",70
+Fashion Communication (NIFT),"NIFT Communication Solutions, Fashion PR Ltd, Communication Co",80
+Operational Support (Generalist),"Support Solutions Inc, Operational Support Ltd, Generalist Co",85
+Social Research,"Social Research Solutions, Research Experts Ltd, Social Science Co",70
+Supply Chain And Logistics Operations,"Logistics Solutions Inc, Supply Chain Experts Ltd, Operations Co",65
+Instagram Reels Creation,"Reels Solutions Inc, Instagram Experts Ltd, Video Content Co",45
+Marketing Operations,"Marketing Solutions Inc, Operations Management Ltd, Marketing Co",75
+Telecounseling,"Telecounseling Solutions, Counseling Experts Ltd, Support Co",55
+Subject Matter Expert (Physics),"Physics Experts Ltd, SME Solutions Inc, Physics Mastery Co",80
+Educational Consulting,"Consulting Solutions Inc, Education Experts Ltd, Consulting Co",60
+Fashion Cordination,"Fashion Coordination Solutions, Coordination Experts Ltd, Fashion Co",70
+Bussiness Development,"Business Development Solutions, Development Experts Ltd, Business Co",85
+Registration Calling,"Registration Solutions Inc, Calling Experts Ltd, Support Co",75
+Reminder Calling,"Reminder Solutions Inc, Calling Experts Ltd, Support Co",85
+Subject Matter Expert (Pure Statistics),"Statistics Experts Ltd, SME Solutions
+ Inc, Statistics Mastery Co",65
+Event Details Communication,"Event Solutions Inc, Communication Experts Ltd, Event Management Co",75
+Data Reporting,"Reporting Solutions Inc, Data Experts Ltd, Reporting Co",85
+Video Content Creation,"Video Content Solutions Inc, Creative Video Experts Ltd, Video Creation Co",75
+Business Development (Sales) & Telecalling,"Sales Solutions Inc, Telecalling Experts Ltd, Business Development Co",90
+Patron Engagement Executive,"Engagement Solutions Inc, Patron Engagement Ltd, Engagement Co",70
+Content Creation,"Content Creation Solutions, Creative Experts Ltd, Content Co",80
+Delegate Engagement Specialist,"Engagement Solutions Inc, Delegate Engagement Ltd, Engagement Co",85
+Revenue Distribution,"Revenue Solutions Inc, Distribution Experts Ltd, Revenue Co",65
+Formulation And Marketing Of Health Supplement,"Health Solutions Inc, Formulation Experts Ltd, Marketing Co",75
+Sales & Alliances,"Sales Solutions Inc, Alliance Experts Ltd, Business Development Co",90
+Content Creation & Strategy,"Content Solutions Inc, Strategy Experts Ltd, Content Co",70
+Market Automation (Digital Marketing),"Marketing Automation Solutions, Digital Marketing Experts Ltd, Marketing Co",75
+Student Success,"Success Solutions Inc, Student Support Ltd, Success Co",80
+International Business Development,"Global Business Solutions, International Sales Ltd, Business Development Co",85
+Videography,"Videography Solutions Inc, Videography Experts Ltd, Videography Co",70
+Subject Matter Expert (General Knowledge For Government Exams),"SME Solutions Inc, Government Exam Experts Ltd, SME Co",65
+Digital Media,"Digital Media Solutions Inc, Media Experts Ltd, Digital Co",85
+Photography,"Photography Solutions Inc, Photography Experts Ltd, Photography Co",70
+YouTube Shorts Making,"YouTube Solutions Inc, Short Video Experts Ltd, Video Creation Co",75
+Study Abroad Operations,"Study Abroad Solutions Inc, Operations Experts Ltd, Study Abroad Co",80
+Sales Support,"Sales Support Solutions Inc, Support Experts Ltd, Sales Co",70
+Videography & Film-making (Video-Editing),"Video Solutions Inc, Film-making Experts Ltd, Video Editing Co",85
+Social Media Operations,"Social Media Solutions Inc, Operations Experts Ltd, Social Media Co",75
+Marketing And Operations (E-commerce),"E-commerce Marketing Solutions, Operations Experts Ltd, Marketing Co",90
+Graphic Art,"Design Studios Inc., Creative Minds Ltd., Digital Arts Co.",75
+English Teaching,"ABC Language School, Global Education Institute, Language Masters Academy",90
+Influencer Sales & Outreach,"Influence Hub Inc., Outreach Solutions Ltd., Sales Connect Co.",85
+Educational Video Creation,"EduCreators Studio, LearnVision Productions, VideoEd Inc.",80
+Marketing (For Exhibitions),"ExpoMark Inc., ExhibitPro Ltd., ShowMax Solutions",70
+Design (Fashion/Textile/Sourcing) Internship In Delhi,"Fashion House India, Textile Trends Ltd., Sourcing Solutions Co.",60
+Event Operations, Sports Management,95
+FRONT OFFICE,"Frontline Solutions, OfficeWorks Inc., Reception Services Ltd.",55
+Social Innovation,"Innovate for Change Foundation, Social Impact Solutions, Innovation Lab Inc.",75
+Community Development,"Community Builders Association, Development Nexus Ltd., Local Impact Co.",80
+CXO Digital Expert Connect Related Work,"Digital Connect Ltd., CXO Solutions Inc., ExpertHub Ventures",65
+Business Development (Sales & Marketing),"BizDev Solutions, Sales Dynamics Ltd., Marketing Innovate Inc.",90
+Client Servicing,"ClientCare Solutions, ServiceFirst Inc., Relationship Management Co.",85
+Fashion Photography,"FashionClicks Studio, Vogue Captures Ltd., Glamour Shots Inc.",70
+Hotel Management (Food & Beverage Production),"Hospitality Experts Ltd., Food Haven Management, Beverage Crafters Inc.",75
+Graphic Design & Management,"DesignWorks Studio, Graphic Masterminds Ltd., Image Innovations Co.",80
+Social Media Marketing (Branded Content),"SocialBuzz Inc., BrandConnect Solutions, Media Marketing Masters",85
+Social Media Marketing - Hindi,"HindiSocial Inc., DesiConnect Solutions, HindiMedia Management",60
+Client Servicing - Advertising & Events,"ClientConnect Events, AdServe Solutions, EventCare Management",70
+Founder In Residence,"StartUp Innovations, Founder Support Ltd., Incubator Ventures",65
+Management,"ManagementWorks Ltd., ExecuServe Solutions, Business Dynamics Inc.",80
+Digital Art Illustration,"DigitalCanvas Studio, Artistic Minds Ltd., Illustration Innovations Co.",75
+Subject Matter Expert (Chemical Engineering),"ChemEng Experts Ltd., Engineering Solutions Inc., Chemical Innovations",85
+Business Development (Sports),"SportsBiz Solutions, Development Dynamics Ltd., Sports Strategy Co.",70
+New Market Acquisition Lead,"MarketQuest Solutions, Acquisition Dynamics Ltd., New Market Ventures",90
+Comic Book Illustration,"Comic Creations Studio, Graphic Novel Works, Illustration Dynamics Inc.",80
+Placement Operations,"Placement Partners Inc., CareerPlacement Solutions, JobLink Management",75
+Event Operations,"EventWorks Inc., ProEvent Management, Occasion Dynamics Ltd.",85
+Founders Office,"FounderSpace Ltd., Entrepreneur Hub, StartUp Ventures Inc.",65
+Teaching (Pre-school),"PreSchool Edu Ltd., KidsZone Academy, EarlyLearning Solutions",90
+Graphic Design And Video Marketing,"DesignWorks Studio, VideoGuru Productions, Marketing Graphics Co.",80
+Research And Development,"Research Innovate Inc., Development Solutions Ltd., R&D Ventures",75
+Content Development (Metaphysics),"MetaMind Solutions, Philosophical Works Ltd., Spiritual Content Co.",70
+Fashion Stylist,"Fashion Trends Inc., StyleSavvy Solutions, TrendSetter Management",85
+Client Acquisition,"ClientConnect Solutions, Acquisition Dynamics Ltd., Customer Care Co.",90
+Subject Matter Expert (Chemistry),"ChemistryExperts Ltd., Science Solutions Inc., Chemical Innovations",80
+Digital Marketing & Pre-Sales,"MarketingWorks Solutions, DigitalConnect Ltd., PreSales Dynamics Inc.",75
+HR Coordination,"HRCare Solutions, Coordination Experts Ltd., Human Resources Inc.",70
+Sales & Business Development,"SalesBiz Solutions, Business Dynamics Ltd., DevelopmentWorks Inc.",85
+Mathematics And Statistics,"MathWorks Solutions, StatExperts Ltd., Data Dynamics Inc.",95
+Social Sciences For Research On SDG/ESG Reporting,"SocialImpact Solutions, ResearchWorks Ltd., SDG Research Ventures",90
+Sports Operation,"Sports Dynamics Inc., Operations Management Ltd., Sporting Ventures",80
+Storyboard Artistry For Webtoons,"StoryWorks Studios, Webtoon Creations Ltd., ArtStory Ventures",75
+Sketching Art,"ArtSketch Studio, Doodle Innovations Ltd., SketchArt Solutions",70
+E-Commerce Sales,"eCommerce Solutions Inc., SalesWorks Ltd., Online Sales Innovations",85
+Executive Assistant,"AssistantWorks Solutions, Executive Support Ltd., AdminPro Ventures",90
+Metallurgical Engineering,"Metallurgy Solutions Inc., Engineering Innovations Ltd., MetalWorks Co.",80
+Organizational Psychology,"Organizational Dynamics Ltd., PsychWorks Inc., People Solutions",75
+Mass Communications,"MassComm Solutions, CommunicationWorks Ltd., Media Innovations Inc.",70
+Holiday Expert - Sales & Marketing (Travel & Tourism),"TravelWorks Solutions, Holiday Masters Ltd., Tourism Ventures",85
+IT Management For Project,"ITWorks Solutions, Project Management Ltd., Tech Innovations Co.",90
+Human Resource (HR),"HRWorks Solutions, Human Capital Ltd., Resource Management Inc.",80
+Growth Execution,"Growth Dynamics Inc., Execution Solutions Ltd., GrowthWorks Co.",75
+Purchase Operations,"PurchasePro Solutions, Operations Dynamics Ltd., Procurement Innovations",70
+Finance (Wealth Management),"FinanceWorks Solutions, Wealth Management Ltd., Financial Innovations Inc.",85
+Human Resource - Recruitment,"RecruitWorks Solutions, HR Dynamics Ltd., Talent Management Ventures",90
+Database Building/Management,"DataWorks Solutions, Database Innovations Ltd., Management Dynamics Inc.",80
+Equity Research Analysis & Trading,"EquityWorks Solutions, Trading Dynamics Ltd., Research Innovations Co.",75
+Data Science (Mentor And Development),"DataWorks Solutions, Data Dynamics Ltd., Science Innovations Inc.",70
+Technical Research Associate,"TechWorks Solutions, Research Dynamics Ltd., Technical Innovations Co.",85
+Investor Relations,"InvestorWorks Solutions, Relations Dynamics Ltd., Investor Innovations Inc.",90
+Cold Outreach And Outbound Marketing,"OutreachWorks Solutions, Marketing Dynamics Ltd., Cold Outreach Ventures",80
+Library Front Desk Operations,"LibraryWorks Solutions, Desk Dynamics Ltd., Front Desk Innovations",75
+Designer (Sportswear & Apparel),"DesignWorks Studio, Sports Apparel Inc., Apparel Innovations Ltd.",70
+Filmmaking,"FilmWorks Studio, MovieMakers Inc., Cinema Innovations Ltd.",85
+Educational Research,"EducationWorks Solutions, Research Dynamics Ltd., Learning Innovations Co.",90
+Electrical Engineering Teaching,"ElectroTeach Solutions, Teaching Dynamics Ltd., Electrical Innovations Inc.",80
+Sales (Travel Planning),"TravelSales Solutions, Planning Dynamics Ltd., Sales Innovations Inc.",75
+Podcast Show Hosting,"PodcastWorks Studio, ShowHost Inc., Broadcasting Innovations Co.",70
+Management (Male Candidates Preferred),"MaleManagement Solutions, Management Dynamics Ltd., Leadership Innovations",85
+Voice Over,"VoiceWorks Studio, OverVoice Inc., Audio Innovations Ltd.",90
+Psychology,"PsycheWorks Solutions, Psychology Dynamics Ltd., Mind Solutions Inc.",80
+Tele-Counseling,"TeleWorks Solutions, Counseling Dynamics Ltd., TeleCare Innovations",75
+Media & Public Relations (PR),"MediaPR Solutions, PR Dynamics Ltd., Public Relations Innovations",70
+Radio Jockey,"RadioWorks Studio, JockeyRadio Inc., Broadcasting Innovations Ltd.",85
+Film Production,"FilmWorks Studio, Production Dynamics Ltd., Cinema Innovations Co.",90
+Business Building,"BusinessWorks Solutions, Building Dynamics Ltd., Ventures Innovations Inc.",80
+Subject Matter Expert (Economics),"EconExperts Solutions, Economic Dynamics Ltd., Expert Innovations Co.",75
+Financial Accounting,"FinanceWorks Solutions, Accounting Dynamics Ltd., Financial Innovations Inc.",70
+Sales & Marketing,"SalesWorks Solutions, Marketing Dynamics Ltd., Sales Innovations Inc.",85
+Customer Support Engineering (IT),"SupportWorks Solutions, Engineering Dynamics Ltd., Customer Innovations Inc.",90
+Research (Economics),"EconomicResearch Solutions, Research Dynamics Ltd., Innovations Ventures Inc.",80
+Hosting/Hostessing,"HostWorks Solutions, Hostess Dynamics Ltd., Hospitality Innovations Inc.",75
+Content Design And Graphic Design,"DesignWorks Studio, Content Design Inc., Graphic Innovations Ltd.",70
+Remote Business Development,"RemoteBiz Solutions, Business Dynamics Ltd., Development Innovations Co.",85
+Online Business & Portal Development,"OnlineBiz Solutions, Portal Dynamics Ltd., Business Innovations Inc.",90
+UX/UI Design,"UXWorks Solutions, UIDynamics Ltd., Design Innovations Inc.",80
+Brand Marketing,"BrandWorks Solutions, Marketing Dynamics Ltd., Brand Innovations Co.",75
+Sales And Admin Coordination,"SalesAdmin Solutions, Coordination Dynamics Ltd., Admin Innovations Inc.",70
+Assistance To Director,"AssistantWorks Solutions, Director Dynamics Ltd., Leadership Innovations Co.",85
+Fashion Design Management,"FashionManagement Solutions, Design Dynamics Ltd., Fashion Innovations Inc.",90
+Visualization,"VisualWorks Solutions, Visualization Dynamics Ltd., Visionary Innovations Co.",80
+Partnership Management,"PartnershipWorks Solutions, Management Dynamics Ltd., Partner Innovations Inc.",75
+Graphic Design And UI/UX,"DesignWorks Studio, UIDesign Inc., Graphic Innovations Ltd.",70
+Creative Communications,"CreativeWorks Solutions, Communication Dynamics Ltd., Creative Innovations Inc.",85
+Fashion Design - NIFT/ PEARL,"FashionDesign Solutions, Design Dynamics Ltd., Fashion Innovations Inc.",90
+Web3 Content Creation,"Web3Works Solutions, Content Dynamics Ltd., Web Innovations Inc.",80
+Corporate Relations,"CorporateWorks Solutions, Relations Dynamics Ltd., Corporate Innovations Co.",75
+PHP Development,"PHPWorks Solutions, Development Dynamics Ltd., PHP Innovations Inc.",70
+Strategic Communications, Media & Public Relations (PR),85
+Social Media Marketing & Digital Marketing,"SocialMediaWorks Solutions, Marketing Dynamics Ltd., Digital Innovations Co.",90
+Mobile App Development,"AppWorks Solutions, Development Dynamics Ltd., Mobile Innovations Inc.",80
+Fashion Design & Styling,"FashionDesign Solutions, Design Dynamics Ltd., Styling Innovations Inc.",75
+Content Writing (UFC, Boxing),
+Golang Development,"GolangWorks Solutions, Development Dynamics Ltd., Golang Innovations Co.",85
+Business/Sales Development (Agricultural Products),"AgriBiz Solutions, Business Dynamics Ltd., Agriculture Innovations Inc.",90
+Chemistry Subject Expert,"ChemistryExperts Solutions, Subject Dynamics Ltd., Chemistry Innovations Co.",80
+Subject Matter Expert (Physics And Advanced Physics),"PhysicsExperts Solutions, Subject Dynamics Ltd., Physics Innovations Co.",75
+Solar Engineering,"SolarWorks Solutions, Engineering Dynamics Ltd., Solar Innovations Inc.",70
+Statistics Subject Expert,"StatsExperts Solutions, Subject Dynamics Ltd., Statistics Innovations Co.",85
+E-Commerce Business Management,"eCommerceBiz Solutions, Management Dynamics Ltd., Business Innovations Inc.",90
+Digital Project (Associate),"DigitalProject Solutions, Project Dynamics Ltd., Digital Innovations Inc.",80
+Industrial Decarbonization Research,"DecarbonizeWorks Solutions, Research Dynamics Ltd., Industrial Innovations Co.",75
+Climate Finance Research,"ClimateFinance Solutions, Research Dynamics Ltd., Finance Innovations Inc.",70
+IT Sales,"ITSales Solutions, Sales Dynamics Ltd., IT Innovations Inc.",85
+Research,"ResearchWorks Solutions, Research Dynamics Ltd., Innovations Ventures Inc.",90
+Product Design - Mechanical Engineering,"MechanicalDesign Solutions, Design Dynamics Ltd., Product Innovations Inc.",80
+Social Media Content Creation,"SocialMediaWorks Solutions, Content Dynamics Ltd., Media Innovations Inc.",75
+CAD (Computer Aided Design) Engineering,"CADWorks Solutions, Engineering Dynamics Ltd., CAD Innovations Inc.",70
+Printed Circuit Board Design,"PCBWorks Solutions, Design Dynamics Ltd., PCB Innovations Inc.",85
+Embedded Systems,"EmbeddedWorks Solutions, Systems Dynamics Ltd., Embedded Innovations Inc.",90
+Banking Operations,"BankingWorks Solutions, Operations Dynamics Ltd., Banking Innovations Inc.",80
+Electronics Engineering,"ElectronicsWorks Solutions, Engineering Dynamics Ltd., Electronics Innovations Co.",75
+CAD & Product Design,"CADProduct Solutions, Design Dynamics Ltd., CAD Innovations Inc.",70
+PowerShell Development,"PowerShellWorks Solutions, Development Dynamics Ltd., PowerShell Innovations Co.",85
+Energy Efficiency Research,"EnergyWorks Solutions, Research Dynamics Ltd., Efficiency Innovations Inc.",90
+AWS Terraform &  Kubernetes DevOps,"AWSDevOps Solutions, DevOps Dynamics Ltd., AWS Innovations Inc.",80
+Design & Manufacturing,"DesignWorks Solutions, Manufacturing Dynamics Ltd., Design Innovations Inc.",75
+Investor Relation (Women Candidates Only),"InvestorWorks Solutions, Relations Dynamics Ltd., Investor Innovations Inc.",70
+Chartered Accountancy (CA) Articleship,"CAWorks Solutions, Articleship Dynamics Ltd., Accountancy Innovations Inc.",85
+Flutter Development,"FlutterWorks Solutions, Development Dynamics Ltd., Flutter Innovations Co.",90
+Data Entry - Chennai,"DataEntry Solutions, Chennai Dynamics Ltd., Entry Innovations Inc.",80
+C# .NET Development,"CSharpWorks Solutions, Development Dynamics Ltd., C# Innovations Inc.",75
+Creative Editing & Virtual Assistance For Ecommerce Brand,"CreativeWorks Solutions, Editing Dynamics Ltd., Virtual Assistance Innovations Inc.",70
+Subject Matter Expert (Accounting),"AccountingExperts Solutions, Subject Dynamics Ltd., Accounting Innovations Co.",85
+Community Management,"CommunityWorks Solutions, Management Dynamics Ltd., Community Innovations Inc.",90
+Subject Matter Expert (Mathematics),"MathematicsExperts Solutions, Subject Dynamics Ltd., Mathematics Innovations Co.",80
+Field Visit For Data Collection,"FieldWorks Solutions, Data Collection Dynamics Ltd., Field Innovations Inc.",75
+Data Annotation (Non-Tech),"DataAnnotation Solutions, Annotation Dynamics Ltd., Data Innovations Inc.",70
+Power Electronics Engineering (Electric Vehicles),"PowerElectronics Solutions, Engineering Dynamics Ltd., Electric Innovations Co.",85
+Product Design - Industrial Design (ID),"IndustrialDesign Solutions, Design Dynamics Ltd., Product Innovations Inc.",90
+Android Teaching Assistance (Virtual),"AndroidTeach Solutions, Teaching Dynamics Ltd., Android Innovations Inc.",80
+Pre-Sales And Sales Support,"PreSalesSupport Solutions, Sales Dynamics Ltd., PreSales Innovations Inc.",75
+Remote Tele Sales Executive - Real Estate,"TeleSales Solutions, Sales Dynamics Ltd., TeleSales Innovations Inc.",70
+Mechanical Design,"MechanicalDesign Solutions, Design Dynamics Ltd., Mechanical Innovations Co.",85
+Sales ( Work from home),"SalesHome Solutions, Sales Dynamics Ltd., Remote Sales Innovations",90
+Analytical Chemistry,"AnalyticalChemistry Solutions, Chemistry Dynamics Ltd., Analytical Innovations Inc.",80
+Environmental Engineering,"Eco Solutions, GreenTech Innovations, Earth Engineering Inc.",70
+Learning & Development,"LearnWell Corp, Development Experts Ltd, EduTech Solutions",65
+Oscillation And Waves Teaching,"TeachWaves Academy, WaveMasters Education, PhysicsEd Inc.",50
+Human Resources (teams),"HR Solutions Ltd, Teamwork Consultants, PeoplePower Inc.",75
+Subject Matter Expert (SME) Economics,"Econ Experts Inc, SME Consultants Ltd, EconSolve Solutions",80
+Teaching (Abacus),"AbacusEd Institute, MathTeach Solutions, EduMasters Academy",60
+Leads Generation/Inside Sales,"LeadGen Pros, InsideSales Solutions, SalesMasters Inc.",90
+Applied Thermodynamics Teaching,"ThermoTeach Institute, AppliedTherm Ed, HeatMasters Academy",55
+Mechanics Teaching,"MechMinds Education, PhysicsTeach Solutions, MechanicsEd Institute",65
+Lead Generation Specialist,"LeadGenX Experts, SalesLead Masters, ProSpect Solutions",85
+UI/UX Design Development,"DesignX Innovations, UXUI Experts Ltd, CreativeMinds Solutions",80
+Subject Matter Expert (SME) - Economics,"EconGurus Inc, SME Economics Consultants, ExpertEcon Solutions",75
+Subject Matter Expert - Physics,"PhysicsPro Consultants, SME Physics Experts, PhysicsMasters Ltd",70
+T3 Stack Development,"TechTrio Solutions, T3 Stack Innovations, FullStack Experts Ltd",80
+Share Broking, Investment & Personal Finance,85
+Onboarding Management,"Onboard Solutions, Management Onboarding Ltd, HR Onboarding Inc.",70
+WordPress Web Design And Digital Marketing,"WP Designers Inc, DigitalWP Solutions, WebMarketing Masters",75
+Statistics And Probability (Subject Matter Expert),"StatsGenius Inc, ProbStats Solutions, ExpertStats Consultants",80
+Tele-sales,"TeleSales Solutions, SalesCall Experts, PhoneMasters Inc.",85
+Social Media And Content Marketing,"SocialContent Solutions, MediaMasters Inc, ContentCreators Ltd",90
+Instructional Design,"Instruct Innovations, DesignEd Solutions, Training Masters Ltd",75
+Sports Content Writing (Tennis),"TennisWriters Inc, SportsContent Solutions, GameMasters Media",65
+Recruitment Consultant,"RecruitX Consultants, TalentHire Solutions, StaffMasters Ltd",85
+Nursing (Subject Matter Expert),"NursingExperts Ltd, NurseCare Solutions, HealthMasters Inc",80
+Full Stack Development,"FullStack Innovations, DevMasters Solutions, CodeMasters Ltd",90
+Hindi Documentation/Hindi Module Making,"HindiDocs Solutions, HindiMasters Ltd, LanguageCreators Inc.",70
+Full Stack Development With Experience Of Data Analytics,"DataDev Solutions, FullData Innovations, CodeData Masters",85
+Content Writing For CA, CS,75
+Presales Lead Business Analyst,"Presales Analysts Ltd, BusinessPresales Solutions, LeadBiz Masters",80
+Marketing & Sales,"MktSales Solutions, SalesMasters Inc, Marketing Experts Ltd",90
+NextJS, NodeJS & Firebase Development,85
+Frontend Web Development,"FrontEnd Innovations, WebFront Solutions, CodeMasters Ltd",80
+Legal Research,"LegalResearch Ltd, LawMasters Solutions, JurisConsult Inc.",75
+Technical,"TechExperts Ltd, CodeMasters Solutions, IT Innovations Inc.",85
+Machine Learning,"ML Experts Ltd, AI Solutions Inc, DataMasters Innovations",90
+Marketing Executive,"MktExec Solutions, MarketingMasters Ltd, BrandExperts Inc.",85
+Backend Development,"BackEnd Innovations, DevMasters Solutions, CodeMasters Ltd",80
+Powerbi Analytics,"PowerBI Experts Ltd, DataMasters Solutions, Analytics Innovations Inc.",75
+Social Media/Digital Marketing Marketing,"SocialMkt Solutions, DigitalMarketing Experts Ltd, MediaMasters Inc",80
+AWS Development - Python,"AWSPython Solutions, AWSMasters Inc, DevOps Innovations Ltd",75
+Estimation And Costing Engineering (Civil),"EstimateEng Solutions, CivilEst Solutions, CostingMasters Ltd",70
+WhatsApp Marketing,"WhatsAppMkt Solutions, SocialMkt Masters, Messaging Innovations Inc.",85
+Translator / Transcriber (English To Hindi),"TransEngHindi Solutions, LanguageMasters Ltd, Translation Experts Inc",80
+Network Support,"NetSupport Solutions, ITSupport Experts Ltd, Networking Innovations Inc.",75
+Digital Marketing & Business Development,"DigitalBiz Solutions, MarketingExperts Ltd, BusinessMkt Innovations",80
+Data & Reporting,"DataReport Solutions, AnalyticsMasters Ltd, Data Innovations Inc.",75
+Content Strategist,"ContentStrat Solutions, StrategyMasters Ltd, CreativeContent Innovations",80
+Graphic And Social Media Design,"GraphicMedia Solutions, SocialMkt Experts Ltd, DesignInnovations Inc.",85
+College Event Coordination,"CollegeEvent Solutions, EventMasters Ltd, CampusCoord Innovations",70
+Business Development Associate/ Upwork Bidder,"BDBid Solutions, UpworkMkt Experts Ltd, BidMaster Innovations",75
+Video Editing & Digital Ads Creation,"VideoAds Solutions, DigitalVideo Masters, Editing Innovations Inc.",80
+Fashion Design,"FashionDesign Solutions, DesignMasters Ltd, Style Innovations Inc.",85
+Sales- Consulting Services,"SalesConsult Solutions, Consulting Experts Ltd, SalesMasters Inc",90
+Backend Development (Node.js),"NodeDev Solutions, BackEnd Innovations, CodeMasters Ltd",85
+IoT Engineering,"IoTEng Solutions, TechInnovate Experts Ltd, IoT Innovations Inc.",80
+Company Secretary (CS)trainee,"CSTrainee Solutions, CompanySecretaries Ltd, Trainee Masters Inc",75
+Unity Game Development,"UnityDev Solutions, GameMasters Innovations, UnityExperts Ltd",70
+Fashion Design And Merchandising,"FashionMerch Solutions, DesignMasters Ltd, Style Innovations Inc.",75
+Information Technology,"IT Solutions Ltd, TechMasters Solutions, Innovate Experts Inc.",80
+Enterprise Sales Executive (IT Solution Sales),"EnterpriseSales Solutions, SalesMasters Ltd, IT Sales Innovations",85
+WhatsApp Campaign Management,"WhatsAppCampaign Solutions, MessagingMkt Masters, Marketing Innovations Inc",90
+Graphic Design (Canva),"CanvaDesign Solutions, DesignMasters Ltd, Creative Innovations Inc.",85
+Civil Engineering Research,"CivilResearch Solutions, EngMasters Ltd, Innovation Inc",80
+Botany, Zoology,85
+Agriculture, Horticulture And Rural Development Research,80
+Customer Relations,"CustomerRel Solutions, RelationsMasters Ltd, Service Innovations Inc.",85
+Economics/Policy Research,"EconPolicy Solutions, PolicyMasters Ltd, Research Innovations Inc.",80
+LinkedIn Marketing,"LinkedInMkt Solutions, SocialMkt Masters, Marketing Innovations Inc",85
+Branding And Visual Design,"BrandingVisual Solutions, DesignMasters Ltd, Creative Innovations Inc.",90
+Field Research Analytics,"FieldAnalytics Solutions, ResearchMasters Ltd, Innovation Inc.",85
+Customer Service And Sales,"CustomerSales Solutions, SalesMasters Ltd, Service Innovations Inc.",80
+Manual Testing,"ManualTest Solutions, TestingMasters Ltd, Software Innovations Inc.",75
+Company Secretary (CS) Trainee,"CSTrainee Solutions, CompanySecretaries Ltd, Trainee Masters Inc",80
+Management Consulting,"MgmtConsult Solutions, ConsultingMasters Ltd, Management Innovations Inc",85
+Operations Analytics,"OpsAnalytics Solutions, AnalyticsMasters Ltd, Ops Innovations Inc.",90
+Cold Calling,"ColdCall Solutions, SalesMkt Masters, Sales Innovations Inc.",85
+Website Design,"WebDesign Solutions, DesignMasters Ltd, Creative Innovations Inc.",80
+Content Writing - Remote,"RemoteContent Solutions, WritingMasters Ltd, Creative Innovations Inc.",85
+Blockchain Development,"BlockDev Solutions, CryptoMasters Ltd, Tech Innovations Inc.",90
+Graphic Design (Logo/Social Media Design),"LogoMedia Solutions, DesignMasters Ltd, Creative Innovations Inc.",85
+Lead Generation (Whatsapp Group Scrapping),"WhatsAppLead Solutions, LeadMasters Ltd, Sales Innovations Inc.",80
+Investment Analysis,"InvestAnalysis Solutions, FinanceMasters Ltd, Investment Innovations Inc.",75
+Equity Research,"EquityResearch Solutions, ResearchMasters Ltd, Finance Innovations Inc.",70
+Inside Sales ETech Prowess,"InsideSales Solutions, SalesMasters Ltd, ETech Innovations Inc.",75
+Video Creation,"VideoCreate Solutions, CreativeMasters Ltd, Video Innovations Inc.",80
+Stock Market,"StockMkt Solutions, FinanceMasters Ltd, Investment Innovations Inc.",85
+Stock Market Management,"StockMktMgmt Solutions, FinanceMasters Ltd, Investment Innovations Inc.",90
+Equity Research And Trading,"EquityResearch Solutions, ResearchMasters Ltd, Finance Innovations Inc.",85
+Video Presentation,"VideoPres Solutions, PresentationMasters Ltd, Video Innovations Inc.",80
+WebApp Development,"WebAppDev Solutions, DevMasters Ltd, Code Innovations Inc.",75
+Instragram Marketing,"InstaMkt Solutions, SocialMkt Masters, Marketing Innovations Inc",70
+Real Estate Sales,"RealEstateSales Solutions, SalesMkt Masters, Estate Innovations Inc.",65
+Outbound Sales,"OutboundSales Solutions, SalesMkt Masters, Sales Innovations Inc.",70
+Chemistry Video Solutions (English),"ChemistryVideo Solutions, ScienceMasters Ltd, Video Innovations Inc.",75
+Business Development (Inbound & Outbound Fashion Sales),"FashionBiz Solutions, SalesMkt Masters, Fashion Innovations Inc.",80
+Tech Specialist (Shopify),"ShopifyTech Solutions, TechMasters Ltd, Shopify Innovations Inc.",85
+Field Work For HairCare Brand,"HairCareField Solutions, FieldMkt Masters, Brand Innovations Inc.",90
+Reel Making,"ReelMkt Solutions, MediaMkt Masters, Video Innovations Inc.",85
+Client Relationship Execution,"ClientExec Solutions, SalesMkt Masters, Client Innovations Inc.",80
+Test Analysis,"TestAnalysis Solutions, AnalysisMasters Ltd, Testing Innovations Inc.",75
+ReactJS And Express.js Development,"ReactDev Solutions, DevMasters Ltd, Code Innovations Inc.",70
+Sales (SaaS),"SaaSSales Solutions, SalesMkt Masters, SaaS Innovations Inc.",65
+Full Stack Development - MERN,"MERNDev Solutions, DevMasters Ltd, Code Innovations Inc.",60
+Environmental Sciences,"EcoScience Solutions, ScienceMasters Ltd, Environmental Innovations Inc.",65
+React/Node.js Web/UI Development,"ReactNodeDev Solutions, DevMasters Ltd, Code Innovations Inc.",70
+Human Resources (Administration),"HRAdmin Solutions, HRMasters Ltd, Admin Innovations Inc.",75
+Content Writing & Research,"ContentResearch Solutions, WritingMasters Ltd, Research Innovations Inc.",80
+Catalog Management,"CatalogMgmt Solutions, ManagementMasters Ltd, Catalog Innovations Inc.",85
+Django Development,"DjangoDev Solutions, DevMasters Ltd, Code Innovations Inc.",90
+Data Analytics,"DataAnalytics Solutions, AnalyticsMasters Ltd, Data Innovations Inc.",85
+Human Resources, Talent Acquisition & Management,80
+Vendor Management,"VendorMgmt Solutions, ManagementMasters Ltd, Vendor Innovations Inc.",85
+Talent Acquisition (Recruitment),"TalentAcq Solutions, HRMasters Ltd, Talent Innovations Inc.",90
+Digital Marketing & Operations,"DigitalMktOps Solutions, MarketingMasters Ltd, Digital Innovations Inc.",85
+Founder's Office Operations,"FounderOps Solutions, ManagementMasters Ltd, Founder Innovations Inc.",80
+Web Designing,"WebDesign Solutions, DesignMasters Ltd, Web Innovations Inc.",75
+Business Analysis,"BusinessAnalyst Solutions, AnalystMasters Ltd, Business Innovations Inc.",70
+Telecalling (Sales),"TelecallSales Solutions, SalesMkt Masters, Sales Innovations Inc.",75
+News Data Entry Operation,"NewsData Solutions, DataMasters Ltd, News Innovations Inc.",80
+Product Design,"ProdDesign Solutions, DesignMasters Ltd, Product Innovations Inc.",85
+Research (Personal Finance),"FinanceResearch Solutions, ResearchMasters Ltd, Finance Innovations Inc.",90
+IoT Development,"IoTDev Solutions, DevMasters Ltd, IoT Innovations Inc.",85
+Travel Consulting,"TravelConsult Solutions, TravelMasters Ltd, Consulting Innovations Inc.",80
+Mobile App Testing,"AppTesting Solutions, TestingMasters Ltd, Mobile Innovations Inc.",75
+Market Research Analysis,"MarketResearch Solutions, ResearchMasters Ltd, Research Innovations Inc.",70
+Content Execution,"ContentExec Solutions, ContentMasters Ltd, Content Innovations Inc.",65
+Forensics Accounting & Fraud Investigations,"ForensicsAcct Solutions, FinanceMasters Ltd, Forensics Innovations Inc.",70
+Brand Management & Content Marketing,"BrandContent Solutions, BrandMkt Masters, Marketing Innovations Inc.",75
+Digital Content Creation,"DigitalContent Solutions, ContentMasters Ltd, Digital Innovations Inc.",80
+Content Writing & Social Media Management,"ContentSM Solutions, ContentMkt Masters, SocialMedia Innovations Inc.",85
+Auditing,"Auditing Solutions, FinanceMasters Ltd, Audit Innovations Inc.",90
+Project Assistant (Management/Logistics),"ProjectAssistant Solutions, ManagementMasters Ltd, Project Innovations Inc.",85
+Website Development,"WebDev Solutions, DevMasters Ltd, Web Innovations Inc.",80
+Artificial Intelligence (AI),"AISolutions Solutions, AIMasters Ltd, AI Innovations Inc.",85
+Lead Generation Analysis,"ABC Corp, XYZ Inc, LeadGen Solutions, LeadMaster",78
+Policy Research (Startup India Program),"Policy Insights, Startup Research Co., Innovation ThinkTank",62
+Social Media & Content Writing,"Social Buzz Agency, ContentCrafters, Digital Storytellers",89
+Digital Marketing & Lead Conversion,"Digital Trends Agency, LeadGenX, Conversion Masters",84
+Film Direction,"Cinema Visions, Silver Screen Studios, Director's Guild",76
+Product Development,"Innovative Products Inc., Development Dynamics, ProductGenius",81
+Marketing & Social Media,"Market Masters Agency, SocialBoosters, TrendSetters",88
+College Volunteering,"CollegeConnect, VolunteerNetwork, Campus Outreach",45
+Biotechnology,"BioTech Innovations, Life Sciences Solutions, Genetic Discoveries",79
+Course Development,"CourseCreators, Educational Dynamics, Learning Innovations",73
+Network Administration (CCNA),"NetAdmin Solutions, Network Pros, Cisco Networkers",72
+Subject Matter Expert (SME)- Maths, Physics & Engineering,85
+Online IIT-JEE Chemistry Tutoring,"IITJEE ChemTutors, Chemistry Champions, Online Academia",67
+Product Assembly (Diploma, ITI Graduates),57
+Education Sales,"EduSales Inc., Academic Solutions, Education Enablers",74
+Instagram Reels,"InstaReel Creators, Social Vibe Media, ReelMakers",82
+Online CBSE/ICSE Mathematics Tutoring,"CBSE/ICSE MathTutors, Board Exam Masters, MathWhiz Academy",70
+Software Development,"CodeCrafters, Software Solutions Inc., Development Dynamics",90
+Styling,"StyleGenius, Fashion Dynamics, TrendSetters",77
+Customer Sales & Operations,"CustomerOps Solutions, Sales Connect, Operations Hub",75
+Business Support Assistance,"BusinessSupport Pro, Support Solutions, Business Helpers",68
+Agriculture & Food Engineering,"AgriTech Solutions, Food Engineering Co., AgroGenius",80
+Online Tutoring For Recorded Classes,"OnlineTutoring Masters, Recorded Class Pros, Virtual Academia",71
+Commerce And Management Subject Matter Expert,"Commerce Experts Inc., Management Solutions, SubjectMatter Gurus",83
+Statistics Tutoring For Recorded Classes,"StatsTutoring Pro, Recorded Class Stats, StatGenius Academy",65
+Online Tutoring For CUET,"CUET Tutors, University Entrance Pros, CUET Masters",69
+Online Tutoring For Commerce (PG),"CommercePG Tutors, PostGrad Commerce Pros, Business Masters Academy",66
+Online Tutoring For Statistics,"StatsTutoring Online, StatWizards Academy, StatsMaster Tutors",64
+Online Tutoring For Physics Chemistry And Mathematics,"PCM Tutors Online, ScienceMath Pros, PhysicsChem Masters",68
+Policy Research,"Policy Insights, Research Dynamics, ThinkTank Solutions",79
+Music Creation/Composing,"MusicMakers Inc., Creative Melodies, SoundCrafters",87
+Blender 3D Animation,"BlenderArtists, 3D Animation Studios, Animation Innovations",82
+Online Tutoring For Journalism,"JournalismTutors, News Writing Solutions, MediaMasters Academy",73
+Laravel Development,"Laravel Solutions Inc., Development Dynamics, PHP Innovations",85
+Online Tutoring (Economics),"EconomicsTutors, EconPros Academy, Virtual Economics Masters",74
+Site Engineering (Civil),"SiteEngineers Pro, Civil Solutions, Engineering Dynamics",76
+IO Psychology,"IO Psych Solutions, Psychology Dynamics, HR Innovations",80
+Online Tutoring For Social Work,"SocialWork Tutors, Community Support Solutions, Social Dynamics Academy",72
+Subject Matter Expert (Organic Chemistry),"OrganicChem Experts, ChemMasters Inc., Chemistry Geniuses",81
+Subject Matter Expert (Anatomy And Physiology),"AnatomyExperts Inc., Physiology Dynamics, BioGenius Academy",79
+UPSC Proofreading,"UPSC Proofreaders, Exam Solutions, Proofread Masters",70
+Data Science,"DataScience Solutions, Analytics Innovations, Data Dynamics",88
+Management Trainee,"ManagementTrainee Pro, Business Solutions, Trainee Dynamics",78
+Social Media Content Writing,"SocialContent Writers, Digital Storytellers, ContentMasters",85
+Operations & Quality Assurance,"OpsQA Solutions, Quality Masters, Operations Dynamics",77
+Photoshop Editing,"Photoshop Pros, Editing Solutions, DesignMasters",84
+Primary Research,"PrimaryResearch Pro, Research Solutions, Research Dynamics",76
+Media Sales,"Media Sales Solutions, Sales Dynamics, Media Innovations",82
+Project Executive,"ProjectExecutives Inc., Project Solutions, Executive Dynamics",79
+Back-office Operation,"BackOffice Solutions, Operations Hub, Admin Dynamics",73
+Content Creator,"ContentCreators Inc., Creative Solutions, Content Dynamics",86
+News Writing,"NewsWriters Inc., Journalism Solutions, Media Innovations",80
+Graphic Design - Marketing Agency,"DesignMasters Inc., Marketing Designs, Graphic Innovations",88
+Mechanical Engineering,"Mechanical Solutions, Engineering Dynamics, MechGenius",85
+SEO Content,"SEO Content Solutions, Digital Content Masters, SEO Dynamics",83
+Research Analyst,"ResearchAnalyst Pro, Research Solutions, Analyst Dynamics",81
+UI/UX Figma Design,"UIUXDesign Solutions, DesignMasters Inc., Figma Dynamics",79
+Product Research,"ProductResearch Pro, Research Solutions, Product Dynamics",77
+Doubt Solving (Physics),"PhysicsDoubt Solutions, Physics Masters, Doubt Dynamics",82
+Technical And Fundamental Analysis (Capital Market),"MarketAnalysis Pro, Financial Solutions, Analysis Dynamics",84
+Sales -Workplace Wellness,"SalesWellness Solutions, Wellness Dynamics, Sales Innovations",79
+Social Media Marketing (Dating App Start-up),"DatingSolutions Inc., Social Media Dynamics, Dating Innovations",86
+Education Enrichment,"EduEnrichment Pro, Academic Solutions, Education Dynamics",78
+Video Editor & Human Resources,"VideoHR Solutions, HR Innovations, Video Dynamics",81
+IT Recruitment,"ITRecruitment Pro, Recruitment Solutions, IT Dynamics",80
+Library Science,"LibrarySolutions Inc., Information Solutions, Library Dynamics",75
+Business Development / Enterprise Sales,"BizDev Solutions, Sales Dynamics, Business Innovations",83
+Assistant Photographer,"PhotoAssist Inc., Photography Solutions, Assistant Dynamics",76
+Creative Brand Associate,"CreativeBrand Solutions, Branding Dynamics, Creative Innovations",82
+Theatre Assistance - Teaching And Production,"TheatreAssist Pro, Theatre Solutions, Teaching Dynamics",78
+Human Resource,"HRSolutions Inc., HR Dynamics, HR Innovations",79
+Research And Documentation,"ResearchDoc Pro, Research Solutions, Documentation Dynamics",80
+Mental Health Project Management,"MentalHealth Solutions, Project Management Inc., Mental Dynamics",77
+Video Creation & Editing,"VideoEdit Solutions, Video Innovations, Editing Dynamics",86
+Corporate Communication Design,"CorporateDesign Solutions, Design Dynamics, Communication Innovations",85
+Ecommerce SEO Analyst,"EcomSEO Solutions, SEO Dynamics, Ecommerce Innovations",83
+Climate Change Learning Design,"ClimateLearning Pro, Learning Solutions, Climate Dynamics",80
+SEO Trainee,"SEOTrainee Pro, Training Solutions, SEO Dynamics",74
+Environmental Operations Management,"EnviroOps Solutions, Operations Dynamics, Environmental Innovations",78
+Course Development (Full-Stack Development With Next.js 13),"CourseDev Pro, Course Solutions, Development Dynamics",86
+Online Bidder Business Development Associate,"OnlineBidder Solutions, BizDev Dynamics, Bidder Innovations",79
+Ecommerce Sales Executive,"EcomSales Solutions, Sales Dynamics, Ecommerce Innovations",82
+"SEO, SEM And WordPress","SEOSolutions Inc., WP Dynamics, SEM Innovations",85
+French Training,"FrenchTraining Pro, Language Solutions, French Dynamics",76
+Electrical & Power Electronics,"Electrical Solutions, Power Solutions, Electronics Dynamics",84
+Content Writing (Psychology),"ContentPsych Solutions, Content Dynamics, Psychology Innovations",81
+Business Analytics,"BizAnalytics Pro, Analytics Solutions, Business Dynamics",87
+Aerospace Engineering,"AeroSolutions Inc., Engineering Dynamics, Aerospace Innovations",82
+Software Development & Testing (QA),"SoftwareQA Solutions, Testing Dynamics, Development Innovations",86
+Fashion Consultant,"FashionConsult Pro, Fashion Dynamics, Consulting Innovations",79
+RPA Development (UiPath Certified Professional),"RPADev Pro, RPA Solutions, Development Dynamics",83
+Graphic Design (Branding),"GraphicBrand Solutions, Design Dynamics, Branding Innovations",88
+Audiologist,"Audiology Solutions, Medical Dynamics, Audiology Innovations",82
+Quality Assurance,"QA Solutions Inc., Quality Dynamics, Assurance Innovations",80
+Quality Assurance (Content),"ContentQA Solutions, Content Dynamics, Quality Innovations",78
+"Service Engineers, Marketing, On Site Engineers","ServiceEngineers Pro, Engineering Solutions, Service Innovations",79
+User Interfaces And Experiences (UIX),"UIX Solutions Inc., UI Dynamics, User Innovations",83
+Travel Sales And Operations,"TravelSales Solutions, Travel Dynamics, Sales Innovations",82
+Website And SEO Management,"WebSEO Solutions, Website Dynamics, SEO Innovations",85
+"BIA (Big Data, IoT And Analytics)","BIASolutions Inc., Analytics Dynamics, BigData Innovations",84
+Stock Exchange,"StockExchange Solutions, Finance Dynamics, Exchange Innovations",81
+Football Event Management,"FootballEvents Pro, Sports Dynamics, Event Innovations",78
+D2C Growth & Social Media,"D2CGrowth Solutions, Social Media Dynamics, Growth Innovations",83
+Video Editing (After Effects),"VideoAfter Solutions, Video Editing Dynamics, Effects Innovations",85
+Research Analytics,"ResearchAnalytics Pro, Research Solutions, Analytics Innovations",86
+Business Project Management,"BizProject Solutions, Project Dynamics, Business Innovations",87
+Data Analysis & Research,"DataAnalysis Pro, Research Solutions, Analysis Innovations",88
+Google Pay Integration,"GooglePay Solutions, Integration Dynamics, Google Innovations",82
+Data Analysis,"DataAnalysis Solutions, Analysis Dynamics, Data Innovations",83
+Online NEET Biology Tutoring,"NEETBioTutors Pro, Biology Dynamics, NEET Innovations",75
+Online IIT/JEE Physics Teaching,"IITJEEPhysicsTutors Pro, Physics Dynamics, IITJEE Innovations",80
+Mechanical Design & Product Development,"MechDesign Solutions, Mechanical Dynamics, Product Innovations",86
+Content Writing (Anime And Manga),"AnimeManga Solutions, Content Dynamics, Anime Innovations",82
+Content Writing (College Section),"CollegeContent Solutions, Content Dynamics, College Innovations",81
+Interior Design (Office Design),"InteriorDesign Solutions, Design Dynamics, Office Innovations",85
+Graphic Design & UI/UX Design,"GraphicUX Solutions, Design Dynamics, UI/UX Innovations",87
+Community Mental Health & Growth Management,"MentalHealth Solutions, Community Dynamics, Growth Innovations",84
+Instagram Reel Content Creation,"InstaReel Solutions, Social Media Dynamics, Reel Innovations",83
+Cloud DevOps,"CloudDevOps Solutions, DevOps Dynamics, Cloud Innovations",85
+Django & Django REST Framework Development,"DjangoDev Solutions, Development Dynamics, Django Innovations",86
+Course Development (Full-Stack Web Development and Python/Django),"CourseDev Pro, Course Solutions, Development Dynamics",88
+Data Collection,"DataCollection Solutions, Collection Dynamics, Data Innovations",82
+System Engineering,"SystemEngineering Solutions, Engineering Dynamics, System Innovations",80
+Embedded Design Engineering,"EmbeddedDesign Solutions, Engineering Dynamics, Embedded Innovations",86
+French Teaching,"FrenchTeaching Pro, Language Solutions, French Innovations",81
+Customer Data Management,"CustomerData Solutions, Management Dynamics, Customer Innovations",84
+Play-out Operator,"PlayoutOperator Solutions, Operator Dynamics, PlayOut Innovations",79
+Creative Assistant Director,"CreativeAD Solutions, Creative Dynamics, Assistant Innovations",88
+Digital Marketing (YouTube Management),"YouTubeMarketing Solutions, Marketing Dynamics, YouTube Innovations",85
+SEO,"SEOSolutions Inc., SEO Dynamics, SEO Innovations",86
+Trainee Sales Executive,"TraineeSales Solutions, Sales Dynamics, Trainee Innovations",80
+Research/Web Design,"WebResearch Solutions, Research Dynamics, Web Innovations",82
+Marketing & PR,"MarketingPR Solutions, Marketing Dynamics, PR Innovations",84
+Data Entry/Coding,"DataCoding Solutions, Entry Dynamics, Coding Innovations",78
+"Video Editing (Canva, Adobe Premier Pro, Express)","VideoEdit Solutions, Editing Dynamics, Video Innovations",86
+Sales & Marketing (Field Sales),"FieldSales Solutions, Sales Dynamics, Marketing Innovations",84
+Research & Analysis (Mutual Fund),"MutualFund Research, Research Dynamics, Analysis Innovations",82
+Business Management,"BizManagement Solutions, Management Dynamics, Business Innovations",87
+Marketing & Project Management,"MarketingProject Solutions, Management Dynamics, Marketing Innovations",88
+Metaverse(Game) Development,"MetaverseGame Solutions, Game Dynamics, Metaverse Innovations",81
+MIS Management,"MISManagement Solutions, Management Dynamics, MIS Innovations",80
+Equity Analysis,"Investment Bank, Finance Corp, Wealth Management Ltd.",72
+Customer Care,"Customer Service Inc, Support Solutions, Care Services Ltd.",65
+Leather Merchandising,"Leather Goods Co, Merchandising Solutions, Fashion Corp.",53
+SEO Content Writing,"Digital Agency, Content Solutions, SEO Experts Ltd.",91
+Personal Assistant To The Founder,"Start-up Ventures, Entrepreneurial Ventures Ltd.",78
+Content Development (Architecture),"Architecture Firm, Design Solutions, Building Co.",45
+Claims Management,"Insurance Company, Claim Services Ltd, Risk Management Inc.",68
+Software Training,"Training Institute, IT Solutions, Tech Academy",82
+Management Consultant,"Consulting Firm, Business Advisors Ltd, Management Solutions Inc.",75
+Electrical And Electronics Engineering,"Engineering Company, Electronics Solutions, Electrical Innovations Ltd.",87
+Creative Writing,"Creative Agency, Writing Solutions, Content Creators Inc.",79
+Remote Learning Coordination,"Online Learning Platform, Education Solutions Ltd, E-Learning Co.",64
+Python Development,"Tech Start-up, Software Solutions, Python Experts Inc.",90
+Computer Science Expert,"Technology Firm, Software Solutions, IT Services Ltd.",84
+Social Media Marketing,"Digital Marketing Agency, Social Solutions, Media Experts Ltd.",88
+IT Assessment Development,"IT Consultancy, Technology Solutions, Assessment Services Inc.",71
+Medical Writing (Insurance-Medical),"Healthcare Company, Medical Services, Insurance Solutions Ltd.",67
+Relationship Trainee,"Consulting Firm, Relationship Management, Trainee Solutions Inc.",55
+Python Full Stack Development,"Tech Company, Full Stack Solutions, Python Developers Ltd.",93
+Doubt Solving (Physical Chemistry),"Education Institute, Science Solutions, Chemistry Experts Inc.",76
+E-commerce (Product Listing),"Online Retailer, E-commerce Solutions, Product Management Ltd.",81
+Video Editing (Canva),"Media Company, Editing Solutions, Video Creators Inc.",74
+Lead Collection Analysis,"Sales Agency, Lead Solutions, Analysis Services Ltd.",69
+Digital Marketing Executive,"Digital Agency, Marketing Solutions, Executive Services Inc.",86
+Interior And Architecture,"Design Firm, Interior Solutions, Architecture Co.",66
+LinkedIn Profile Handling,"Social Media Agency, LinkedIn Solutions, Profile Management Ltd.",77
+Graphic Design And Video Editing,"Creative Agency, Design Solutions, Video Creators Inc.",89
+Lead Generation - WhatsApp Group Scrapping,"Sales Company, Lead Solutions, WhatsApp Services Ltd.",63
+Technical Project Coordination,"IT Firm, Project Management Solutions, Technical Coordination Inc.",80
+Content & E-Commerce Management,"Online Retailer, Content Solutions, E-commerce Management Ltd.",70
+Video & Graphic Design,"Media Company, Design Solutions, Video Creators Inc.",94
+Freelance Graphic Design,"Freelance Market, Design Solutions, Graphic Designers Ltd.",57
+E Commerce Management,"Online Retailer, E-commerce Solutions, Management Services Inc.",73
+"Business Development (sales and purchase), Communication And Coordination With Stakeholders","Sales Firm, Business Solutions, Communication Services Inc.",83
+Computer Operator,"Tech Company, Operations Solutions, Computer Operators Ltd.",60
+Zoho Creator Development,"Tech Firm, Zoho Solutions, Development Services Inc.",61
+Audio Making/Editing,"Media Company, Audio Solutions, Editing Services Ltd.",58
+Clothing Design For Christian Charity Clothing Brand,"Fashion Company, Design Solutions, Charity Clothing Co.",59
+Video Making,"Media Company, Video Solutions, Production Services Inc.",92
+Informative Reel Making,"Media Company, Reel Solutions, Production Services Inc.",62
+Editorial,"Publishing House, Editorial Solutions, Editing Services Ltd.",56
+Fashion Communication,"Fashion Company, Communication Solutions, Fashion Communication Co.",52
+Key Account Manager,"Sales Company, Account Management Solutions, Key Account Services Inc.",54
+Insurance Advisory,"Insurance Company, Advisory Solutions, Insurance Services Ltd.",50
+React Native Development,"Tech Start-up, Development Solutions, React Developers Ltd.",96
+Edtech Sales,"Edtech Company, Sales Solutions, Education Sales Inc.",97
+Computer Technician,"Tech Company, Technician Solutions, Computer Services Ltd.",98
+Sales And Marketing Analyst,"Sales Firm, Marketing Solutions, Analyst Services Inc.",99
+Sales Growth & Marketing,"Sales Agency, Growth Solutions, Marketing Services Ltd.",100
+Media & Journalism,"Media Company, Journalism Solutions, Media Services Inc.",95
+Subject Matter Expert (Real-Time Doubt Solving),"Education Institute, Expert Solutions, Doubt Solving Co.",91
+Financial Analytics,"Finance Firm, Analytics Solutions, Financial Services Ltd.",92
+Consultant,"Consulting Firm, Consulting Solutions, Consultant Services Inc.",93
+Graphic Design And Website Design,"Creative Agency, Design Solutions, Website Designers Ltd.",94
+Back-link And Content Strategy,"Digital Agency, Strategy Solutions, Content Services Inc.",95
+Project Management (MBA),"Project Management Firm, Management Solutions, MBA Services Ltd.",96
+Fullstack App Development,"Tech Company, Development Solutions, App Developers Ltd.",97
+Marketing Analysis,"Marketing Agency, Analysis Solutions, Marketing Services Inc.",98
+Tech Sales,"Tech Firm, Sales Solutions, Tech Sales Ltd.",99
+"Imaging And Code Development Using IMX477, Rasp Pi Module","Tech Company, Imaging Solutions, Code Development Ltd.",100
+VoIP Systems Management,"Telecom Company, VoIP Solutions, Management Services Inc.",81
+Node Website Development & Payment Gateway Integration,"Tech Firm, Web Solutions, Node Developers Ltd.",82
+Cyber Security Assistance,"Cybersecurity Firm, Security Solutions, Cyber Assistance Inc.",83
+Commodities Exchange,"Finance Company, Exchange Solutions, Commodities Exchange Ltd.",84
+Finance Management,"Finance Firm, Management Solutions, Finance Management Inc.",85
+Social Media Management & Graphic Design,"Digital Agency, Management Solutions, Social Media Design Ltd.",86
+Equity Analytics,"Finance Firm, Analytics Solutions, Equity Analytics Inc.",87
+Finance Research,"Finance Company, Research Solutions, Finance Research Ltd.",88
+Apparel Design,"Fashion Company, Design Solutions, Apparel Designers Ltd.",89
+Food Photography,"Food Company, Photography Solutions, Food Photography Co.",90
+E-commerce,"Online Retailer, E-commerce Solutions, E-commerce Co.",91
+SEO And Content Writing,"Digital Agency, SEO Solutions, Content Writers Ltd.",92
+Program Coordination,"Project Management Firm, Coordination Solutions, Program Services Inc.",93
+Operations Assistance,"Operations Company, Assistance Solutions, Operations Assistance Ltd.",94
+Lead Generation - Whatsapp Group Scraping,"Sales Firm, Lead Solutions, WhatsApp Services Ltd.",95
+Sales And Operations,"Sales Company, Operations Solutions, Sales Operations Inc.",96
+Growth Marketing,"Marketing Agency, Growth Solutions, Marketing Services Inc.",97
+Business Growth,"Business Firm, Growth Solutions, Business Growth Ltd.",98
+Growth And Strategy Management,"Strategy Firm, Growth Solutions, Strategy Management Inc.",99
+Regional Marketing,"Marketing Agency, Regional Solutions, Regional Marketing Ltd.",100
+Operations & Business Development,"Operations Company, Development Solutions, Operations Development Inc.",80
+Outreach Management,"Management Firm, Outreach Solutions, Outreach Management Ltd.",79
+Computer Vision,"Tech Firm, Vision Solutions, Computer Vision Ltd.",78
+Fashion Cum Merchandising Design,"Fashion Company, Design Solutions, Fashion Designers Ltd.",77
+Office Administration,"Office Solutions Company, Administration Solutions, Office Administration Ltd.",76
+Creative Training,"Creative Agency, Training Solutions, Creative Training Co.",75
+Client Servicing & Team Coordination,"Service Firm, Servicing Solutions, Client Servicing Ltd.",74
+DevOps,"Tech Firm, DevOps Solutions, DevOps Services Inc.",73
+Performance Sales,"Sales Firm, Performance Solutions, Performance Sales Inc.",72
+General Management And Marketing,"Management Firm, Management Solutions, General Management Ltd.",71
+Customer Acquisition,"Customer Service Company, Acquisition Solutions, Customer Acquisition Inc.",70
+Team Leading (Sales),"Sales Firm, Leading Solutions, Team Leading Ltd.",69
+Strategic Leading,"Strategy Firm, Leading Solutions, Strategic Leading Inc.",68
+Lead Management,"Sales Firm, Management Solutions, Lead Management Ltd.",67
+Merchandising,"Merchandising Company, Merchandising Solutions, Merchandising Inc.",66
+VBA Excel Programming (Algorithmic Trading),"Finance Firm, Programming Solutions, VBA Excel Programming Ltd.",65
+Blog Writing (SEO-Optimized),"Blogging Company, Writing Solutions, Blog Writers Ltd.",64
+ERP Functional Operations,"ERP Company, Operations Solutions, ERP Operations Ltd.",63
+Design & Fabrication,"Design Firm, Fabrication Solutions, Design & Fabrication Co.",62
+Social Media Associate,"Digital Agency, Social Media Solutions, Social Media Associates Ltd.",61
+Market Sales,"Sales Firm, Market Solutions, Market Sales Inc.",60
+Content Writing (Gaming),"Gaming Company, Writing Solutions, Gaming Writers Ltd.",59
+Reel Creation,"Media Company, Creation Solutions, Reel Creators Inc.",58
+Interior Design/Architect,"Design Firm, Design Solutions, Interior Designers Ltd.",57
+Real Time Sales,"Sales Firm, Real Time Solutions, Real Time Sales Inc.",56
+Finance Ops,"Finance Company, Operations Solutions, Finance Ops Ltd.",55
+Financial Analyst,"Finance Firm, Analyst Solutions, Financial Analysts Ltd.",54
+QA Testing,"Testing Company, QA Solutions, QA Testing Ltd.",53
+Influencer Management and Social Media Marketing,"Digital Agency, Management Solutions, Influencer Marketing Ltd.",52
+Game Development (Unity/ Unreal),"Gaming Company, Development Solutions, Game Developers Ltd.",51
+Script Writing/Storytelling,"Media Company, Writing Solutions, Script Writers Ltd.",50
+"Video Editing, Motion Graphics And VFX","Media Company, Editing Solutions, VFX Services Inc.",49
+Voice-Over Video Editing,"Media Company, Editing Solutions, Voice-Over Editing Ltd.",48
+Human Resources/Operations,"HR Firm, Operations Solutions, HR Operations Ltd.",47
+"Sales, Marketing & PR","Sales Firm, Marketing Solutions, PR Services Inc.",46
+Travel Consultant,"Travel Agency, Consultant Solutions, Travel Consultants Ltd.",45
+Acting,"Entertainment Company, Acting Solutions, Acting Inc.",44
+Business Development (Lead Generation),"Business Firm, Development Solutions, Lead Generation Ltd.",43
+Personal Branding,"Branding Company, Personal Branding Solutions, Personal Branding Inc.",42
+Growth And Social Media Marketing,"Marketing Agency, Growth Solutions, Social Media Marketing Ltd.",41
+YouTube Editing,"Media Company, Editing Solutions, YouTube Editing Ltd.",40
+Shopify Web Development,"E-commerce Company, Development Solutions, Shopify Developers Ltd.",39
+E-Commerce Catalog Management,"Online Retailer, E-commerce Solutions, Catalog Management Inc.",38
+VR Development,"VR Corp, VR Solutions, Virtual Reality Inc.",70
+Digital Marketing And Research,"Digital Solutions, Marketing Co., Research Innovations",92
+Supervision,"Supervision Experts, Supervise Now Inc., Supervisor Solutions",65
+Electronics, Electrical,81
+Instrumentation and Control Engineering,"Control Engineering Corp, Instrumentation Solutions Ltd., Engineering Innovations",75
+Audio Verification (Hindi/Telugu),"Audio Verification Co., Indian Audio Solutions, Regional Audio Innovations",60
+CA Articleship,"CA Corp, Articleship Solutions, Accounting Experts",78
+City Tour Guide (English/Spanish),"City Tours Inc., Tour Guide Solutions, Language Tours",82
+React Native App Development,"React App Corp, Native Development Inc., Mobile Solutions",90
+Media And Mass Communication,"Media Co., Communication Solutions Ltd., Mass Media Innovations",85
+Facebook Advertising,"Facebook Ads Co., Advertising Solutions Ltd., Social Media Experts",95
+HR - Recruitment,"HR Solutions, Recruitment Experts, Staffing Innovations",80
+Content Writing In All The Languages.,"Content Co., Language Solutions Ltd., Writing Experts",85
+Social Media Managementsoc,"Social Media Co., Management Solutions Ltd., Social Innovations",75
+Embedded Web And Mobile Development,"Embedded Solutions, Web & Mobile Co., Development Innovations",88
+Digital Marketing And Advertising,"Digital Marketing Co., Advertising Solutions Ltd., Marketing Innovations",92
+Promotions,"Promotions Co., Marketing Solutions Ltd., Promotional Innovations",70
+SME - Physics,"Physics Co., SME Solutions, Science Innovations",75
+SME - Economics,"Economics Co., SME Solutions, Economic Innovations",80
+SME - Statistics,"Statistics Co., SME Solutions, Analytical Innovations",78
+SME - Accountancy,"Accountancy Co., SME Solutions, Accounting Innovations",85
+SME - Chemistry (Graduation),"Chemistry Co., SME Solutions, Chemical Innovations",82
+News/ Interview Anchoring,"News Co., Interview Solutions, Anchoring Innovations",75
+Paid Media,"Media Co., Paid Solutions, Advertising Innovations",88
+Digital Marketing & Graphic Design,"Digital Marketing Co., Graphic Design Solutions, Design Innovations",90
+Dance Teaching,"Dance Co., Teaching Solutions, Dance Innovations",70
+Graphic Design For Podcast Cover,"Graphic Design Co., Podcast Solutions, Design Innovations",85
+Communication Trainer,"Communication Co., Training Solutions, Communication Innovations",78
+Political Research Analysis,"Political Research Co., Analysis Solutions, Political Innovations",82
+Sales Development,"Sales Co., Development Solutions, Sales Innovations",80
+E Commerce Executive,"E-Commerce Co., Executive Solutions, E-Commerce Innovations",85
+Business Development (Corporate Gifting),"Business Development Co., Corporate Solutions, Business Innovations",90
+Social Media Marketing And User Engagement,"Social Media Co., Marketing Solutions, User Engagement Innovations",95
+"Content Writing, Catalogue Creation And Digital Marketing","Content Co., Marketing Solutions, Writing Innovations",88
+Customer Success Associate,"Customer Success Co., Associate Solutions, Customer Innovations",75
+Recruitment (Non-IT),"Recruitment Co., Non-IT Solutions, Recruitment Innovations",78
+Mobile App Development(Flutter Preferably Ios Experts),"Mobile App Co., Development Solutions, Mobile Innovations",82
+Business Development Representative,"Business Development Co., Representative Solutions, Business Innovations",80
+Business Development Champion,"Business Development Co., Champion Solutions, Business Innovations",85
+Content Writing - Spanish,"Content Co., Language Solutions, Writing Innovations",92
+Human Resources (HR) - Recruitment,"HR Solutions, Recruitment Solutions, HR Innovations",90
+Growth,"Growth Co., Growth Solutions, Growth Innovations",70
+Content Writing & Publishing,"Content Co., Publishing Solutions, Writing Innovations",85
+Website Content Management,"Website Co., Content Solutions, Management Innovations",78
+Script Writing,"Script Co., Writing Solutions, Script Innovations",82
+Nutrition Research And New Product Development,"Nutrition Co., Research Solutions, Nutrition Innovations",80
+Web Development & Design,"Web Development Co., Design Solutions, Web Innovations",85
+Web And Graphic Design,"Web & Graphic Co., Design Solutions, Web & Graphic Innovations",88
+Reservations,"Reservation Co., Management Solutions, Reservation Innovations",95
+Motion Graphic,"Motion Co., Graphic Solutions, Motion Innovations",60
+Lead Development,"Lead Co., Development Solutions, Lead Innovations",75
+Content And E-Commerce Management,"Content Co., E-Commerce Solutions, Management Innovations",85
+Talent Scouting,"Talent Co., Scouting Solutions, Talent Innovations",78
+Founder's Office | SaaS Product | Product Management,"Founder's Office Co., SaaS Solutions, Product Management Innovations",82
+AWS Node.js Lambda Development,"AWS Co., Development Solutions, AWS Innovations",90
+Journalism & Mass Communication,"Journalism Co., Communication Solutions, Journalism Innovations",80
+Product Marketing And E-Commerce Operations,"Product Marketing Co., E-Commerce Solutions, Marketing & Operations Innovations",85
+Business And Project Management,"Business Co., Project Management Solutions, Business & Project Innovations",88
+Employee Engagement,"Employee Engagement Co., Engagement Solutions, Employee Engagement Innovations",75
+Robotics Education,"Robotics Co., Education Solutions, Robotics Innovations",70
+Figma Design,"Figma Co., Design Solutions, Figma Innovations",65
+Computer Operations Cum Office Administration,"Computer Operations Co., Administration Solutions, Operations Innovations",82
+Cloud/DevOps Engineering,"Cloud Engineering Co., DevOps Solutions, Cloud & DevOps Innovations",85
+Content Specialist AI,"Content Co., AI Solutions, Content AI Innovations",90
+Tutoring,"Tutoring Co., Education Solutions, Tutoring Innovations",75
+Social Work Operations,"Social Work Co., Operations Solutions, Social Work Innovations",78
+TorchBearer Program Administration,"TorchBearer Co., Administration Solutions, TorchBearer Innovations",82
+Business Development (People Partnerships),"Business Development Co., Partnerships Solutions, Business Development Innovations",80
+Team Administration,"Team Administration Co., Administration Solutions, Team Administration Innovations",85
+Social & Digital Volunteering,"Volunteering Co., Digital Solutions, Social & Digital Innovations",92
+Psychology (Growth),"Psychology Co., Growth Solutions, Psychology Innovations",90
+HR/Talent Acquisition,"HR Co., Talent Acquisition Solutions, HR Innovations",70
+Office Mangement,"Office Management Co., Management Solutions, Office Management Innovations",75
+Quality Assurance (Software Usability And Data),"QA Co., Quality Assurance Solutions, QA Innovations",88
+SEO And Social Media Marketing,"SEO Co., Marketing Solutions, SEO & Social Media Innovations",75
+Podcast Communications Management,"Podcast Co., Communications Solutions, Podcast Innovations",78
+Engineering Design,"Engineering Co., Design Solutions, Engineering Innovations",82
+Delegate Registration And Coordination,"Delegate Registration Co., Coordination Solutions, Delegate Registration Innovations",80
+Office Assistant,"Office Assistant Co., Assistant Solutions, Office Assistant Innovations",85
+Food Technology & Operations,"Food Technology Co., Operations Solutions, Food Technology Innovations",90
+Compliance / CS,"Compliance Co., CS Solutions, Compliance Innovations",95
+Motion Graphics Design And Video Editing,"Motion Graphics Co., Video Editing Solutions, Motion Graphics Innovations",88
+Ecommerce Listing Support,"E-Commerce Co., Listing Solutions, E-Commerce Innovations",75
+Program Management (Torch Bearer),"Program Management Co., Torch Bearer Solutions, Program Management Innovations",78
+Online Teaching,"Online Teaching Co., Education Solutions, Online Teaching Innovations",82
+Social Wellbeing Research,"Social Wellbeing Co., Research Solutions, Social Wellbeing Innovations",80
+B2C Sales,"Sales Co., B2C Solutions, Sales Innovations",85
+React - Python Development,"React Co., Python Development Solutions, React & Python Innovations",92
+Onboarding,"Onboarding Co., Onboarding Solutions, Onboarding Innovations",90
+SEO (Off Page),"SEO Co., Off Page Solutions, SEO Innovations",70
+Talent Acquisition - Sourcing,"Talent Co., Sourcing Solutions, Talent Acquisition Innovations",75
+Embedded Software/Hardware DevelopeMENT,"Embedded Co., Software/Hardware Solutions, Embedded Innovations",85
+Chartered Financial Analytics (Level-1),"Financial Analytics Co., Analytics Solutions, Financial Analytics Innovations",88
+Industrial Automation And Electrical And Electronics Tech Support Engineering,"Industrial Automation Co., Tech Support Solutions, Industrial Innovations",95
+Content & Copy Writing,"Content Co., Writing Solutions, Content & Copy Innovations",88
+Reel Script Writing,"Reel Script Co., Writing Solutions, Reel Script Innovations",75
+Frontend & WordPress Development,"Frontend Co., WordPress Solutions, Frontend & WordPress Innovations",78
+Teaching- Mathematics (Class 9),"Teaching Co., Mathematics Solutions, Teaching Innovations",82
+Simulation Development And Testing,"Simulation Co., Development Solutions, Simulation Innovations",80
+Creative Design - Video Editing & Graphic Design,"Creative Design Co., Video Editing Solutions, Creative Design Innovations",85
+14 Days Virtual Charity Drive,"Charity Co., Virtual Solutions, Charity Innovations",92
+English (Teaching),"English Co., Teaching Solutions, English Innovations",90
+E-Commerce Management,"E-Commerce Co., Management Solutions, E-Commerce Innovations",70
+Operations And Customer Support,"Operations Co., Customer Support Solutions, Operations Innovations",75
+Marketing (Social Media And LinkedIn),"Marketing Co., Social Media Solutions, Marketing Innovations",85
+Data Collection - HR Project,"Data Collection Co., HR Solutions, Data Collection Innovations",78
+Social Media Marketing - Interior Design,"Social Media Co., Marketing Solutions, Social Media Marketing Innovations",82
+Management Trainee - Client Strategy,"Management Trainee Co., Strategy Solutions, Management Trainee Innovations",80
+Founder' Office,"Founder's Office Co., Office Solutions, Founder's Office Innovations",85
+Placement Executive,"Placement Co., Executive Solutions, Placement Innovations",88
+Jounalism,"Journalism Co., Journalism Solutions, Journalism Innovations",95
+Project Management Trainee,"Project Management Co., Trainee Solutions, Project Management Innovations",60
+Maths Teacher For British Curriculum AQA/Edexcel/Cambridge And IB,"Maths Co., Teaching Solutions, Maths Innovations",70
+Community Management (Dumsharas Game),"Community Co., Management Solutions, Community Innovations",65
+Online Game Hosting,"Online Game Co., Hosting Solutions, Online Game Innovations",82
+Full Stack Development - MERN (React + Node),"Full Stack Co., Development Solutions, Full Stack Innovations",85
+Business Development (IT Sales),"Business Development Co., IT Sales Solutions, Business Development Innovations",88
+Business & Market Research,"Business & Market Co., Research Solutions, Business & Market Innovations",75
+Subject Matter Expert (SME) - Chemistry,"SME Co., Chemistry Solutions, SME Innovations",78
+Software Sales,"Software Co., Sales Solutions, Software Innovations",82
+Flutter Flow Development,"Flutter Co., Development Solutions, Flutter Innovations",80
+Event Management- Expo Attending,"Event Management Co., Expo Solutions, Event Management Innovations",85
+PCB Design,"PCB Co., Design Solutions, PCB Innovations",90
+Python Web Scraping,"Python Co., Web Scraping Solutions, Python Innovations",70
+Zoho Development,"Zoho Co., Development Solutions, Zoho Innovations",75
+Digital Marketing ( LinkedIn Marketing),"Digital Marketing Co., Marketing Solutions, Digital Marketing Innovations",88
+Culinary Expert,"Culinary Co., Expert Solutions, Culinary Innovations",75
+Customer Support- (English & Bengali),"Customer Support Co., Support Solutions, Customer Support Innovations",78
+Graphic Design & Social Media Management,"Graphic Design Co., Social Media Solutions, Graphic Design Innovations",82
+Video Post-Production,"Video Co., Post-Production Solutions, Video Innovations",80
+Subject Matter Expert (SME) - Verbal Ability,"SME Co., Verbal Ability Solutions, SME Innovations",85
+Social Media Marketing And Handling,"Social Media Co., Marketing Solutions, Social Media Innovations",90
+Early Childhood Development,"Early Childhood Co., Development Solutions, Early Childhood Innovations",70
+Educational Counseling,"EduGuide, Bright Minds Consulting, LearnWell Inc.",68
+Baby Photography,"Tiny Toes Photography, Cute Clicks Studio, Sweet Memories Photography",72
+Call Center (English),"CallCenterPro, GlobalTalk Solutions, SpeakEasy Support",56
+Health Insurance,"HealthGuard Insurance, MediSure Solutions, WellCare Plans",82
+Front End Engineering (Mobile & Web App Development),"Frontier Tech Solutions, WebCrafters Inc., MobileX Developers",90
+Talent Executive,"TalentHub Solutions, StarPower Agencies, Elite Talent Management",74
+Graphic Design (Photoshop),"Creative Design Studio, Pixel Perfect Graphics, Artistic Visions Inc.",78
+Digital Marketing And Lead Generation,"Digitize Marketing, LeadGen Masters, DigitalBoost Agency",88
+Modeling Management,"ModelLink Agency, TopNotch Models, Elite Management Group",65
+Email Marketing Expert,"Inbox Innovators, MailMasters Inc., EmailGenius Solutions",79
+Hindi Dubbing Voice Artist,"Bollywood Voices, Hindivox Studios, Desi Dubbing Co.",63
+Live Doubt Solving,"ClearConcepts Tutoring, SolveItNow Services, AskMeAnything Solutions",70
+Finance (Accounting & Taxation) And Human Resources (HR),"FinAcc Consulting, HR Dynamics Inc., TaxPro Solutions",84
+YouTube/Instagram Video Creation/Edition,"ViralVids Studio, InstaFlicks Productions, SocialStars Creations",75
+Photography & Social Media Content Creation,"SnapStories Photography, SocialSnaps Studio, LensCraft Creations",81
+Textile/Fashion Design/Material Science & Fabrication,"FabFabrics Inc., FashionFusion Designs, TextileTech Solutions",77
+Social Media Management And Creatives Design,"SocialSavvy Agency, CreativeMedia Solutions, TrendyPosts Creations",86
+After Effects Editing,"EffectsMaster Studios, PostPro Productions, MotionMagic Creations",69
+ERP Development & Digital Marketing,"ERPTech Solutions, DigitalDynamos Agency, TechERP Inc.",87
+Technical Writing,"Techscribe Solutions, WriteRight Consultancy, TechTalk Writers",76
+Video Editing & Motion Graphics,"MotionMasters Studio, EditMagic Productions, VideoVibe Creations",80
+Next JS Development,"NextGen Developers, JSWizards Inc., WebTech Innovations",91
+Research & Development,"ResearchRapid Solutions, InnovateNow Labs, TechExplore Ventures",83
+Online Tamil CBSE English Tutoring,"TamilTutor Academy, LearnTamil Hub, OnlineTamil Learning",71
+Social Media Creative Design,"CreativeSoc Media, SocialArt Creations, TrendyDesigns Studio",73
+Online Telugu CBSE Chemistry Tutoring,"TeluguTutor Academy, LearnTelugu Hub, OnlineTelugu Learning",64
+Online Malayalam CBSE Science Tutoring,"MalayalamTutor Academy, LearnMalayalam Hub, OnlineMalayalam Learning",67
+Online Tamil Hindi Tutoring,"TamilHindiTutor Academy, LearnTamilHindi Hub, OnlineTamilHindi Learning",89
+Online Malayalam CBSE Hindi Tutoring,"MalayalamHindiTutor Academy, LearnMalayalamHindi Hub, OnlineMalayalamHindi Learning",66
+Online Malayalam CBSE Mathematics Tutoring,"MalayalamMathTutor Academy, LearnMalayalamMath Hub, OnlineMalayalamMath Learning",68
+Online Tamil Known Math Tutoring,"TamilMathTutor Academy, LearnTamilMath Hub, OnlineTamilMath Learning",72
+Online Malayalam CBSE Physics Tutoring,"MalayalamPhysicsTutor Academy, LearnMalayalamPhysics Hub, OnlineMalayalamPhysics Learning",74
+Online Tamil CBSE Physics Tutoring,"TamilPhysicsTutor Academy, LearnTamilPhysics Hub, OnlineTamilPhysics Learning",85
+Online Tamil CBSE Biology Tutoring,"TamilBiologyTutor Academy, LearnTamilBiology Hub, OnlineTamilBiology Learning",77
+Online Malayalam CBSE Biology Tutoring,"MalayalamBiologyTutor Academy, LearnMalayalamBiology Hub, OnlineMalayalamBiology Learning",79
+Online Malayalam CBSE English Tutoring,"MalayalamEnglishTutor Academy, LearnMalayalamEnglish Hub, OnlineMalayalamEnglish Learning",84
+Online Telugu CBSE English Tutoring,"TeluguEnglishTutor Academy, LearnTeluguEnglish Hub, OnlineTeluguEnglish Learning",88
+Online Telugu CBSE Biology Tutoring,"TeluguBiologyTutor Academy, LearnTeluguBiology Hub, OnlineTeluguBiology Learning",80
+Online Tamil CBSE Chemistry Tutoring,"TamilChemistryTutor Academy, LearnTamilChemistry Hub, OnlineTamilChemistry Learning",82
+Online Malayalam CBSE Chemistry Tutoring,"MalayalamChemistryTutor Academy, LearnMalayalamChemistry Hub, OnlineMalayalamChemistry Learning",76
+Podcast Growth Catalysis,"PodcastPro Solutions, GrowthCast Agency, PodBoost Services",81
+Product Media Management,"ProductPro Studio, MediaMasters Inc., BrandImage Creations",78
+Reels Making,"ReelCraft Studios, FilmFlick Creations, InstaMagic Productions",86
+Product Listing,"ListItNow Solutions, ProductPros Inc., MarketMaster Creations",68
+Online Telugu CBSE Physics Tutoring,"TeluguPhysicsTutor Academy, LearnTeluguPhysics Hub, OnlineTeluguPhysics Learning",70
+Market Reserach,"InsightIQ Solutions, MarketMetrics Inc., DataDriven Ventures",87
+Montessori Training,"MontessoriMasters Institute, ChildCare Education Hub, EarlyEd Solutions",74
+Online Telugu CBSE Science Tutoring,"TeluguScienceTutor Academy, LearnTeluguScience Hub, OnlineTeluguScience Learning",79
+Dietetics/Nutrition,"NutriFit Consultancy, DietDynamics Inc., HealthWise Solutions",65
+LinkedIn Content Writing,"LinkedInLeads Solutions, ContentLink Creations, ProfilePros Writing",90
+Digital Marketing Trainee,"DigitalPro Trainings, MarketMentorship Program, BoostCamp Academy",73
+Online Telugu CBSE Math Tutoring,"TeluguMathTutor Academy, LearnTeluguMath Hub, OnlineTeluguMath Learning",75
+Travel Blog Writing,"TravelTales Creations, ExploreMore Writers, WanderLust Blogs",80
+UI/UX And Webflow Development,"DesignFlow Studio, WebEase Solutions, UXPlus Innovations",82
+Content Writing (Gaming: PC/Console),"GameGenius Writers, ConsoleCraze Creations, GamerPro Content",76
+HR Executive,"HRMaster Solutions, TalentTrack Inc., HRPro Dynamics",89
+Social Media Management and Content Creation,"SocialSavvy Media, ContentCraft Solutions, TrendyPosts Creations",88
+Event Coordination & Anchoring,"EventEase Solutions, AnchorMasters Inc., PartyPlanner Pro",77
+"Digital Marketing (Facebook Ads, SEO & SMM)","SocialBoost Marketing, AdReach Solutions, SEOGenius Inc.",85
+Career Charge Student Partner,"CareerBoost Academy, StudentSuccess Inc., CampusCareer Partners",72
+Unity Development,"UnityWorks Studio, GameGenius Inc., DevUnity Solutions",79
+Operations - Video KYC Verification,"KYCMaster Solutions, VideoOps Inc., VerifyTech Innovations",83
+Apparel Designing,"FashionFusion Designs, ClothCraft Studio, GarmentGenius Creations",78
+Web & Graphic Design,"DesignDuo Solutions, WebCraft Studio, GraphiTech Innovations",86
+Sourcing Management,"SourceMaster Solutions, SupplySolve Inc., ProcureTech Innovations",91
+Impact Leaders Adminstration & Operations,"ImpactPlus Solutions, LeadershipOps Inc., SocialImpact Dynamics",80
+Software Testing Engineering,"TestTech Solutions, QualityAssure Inc., BugBusters Testing",84
+Crypto Mining Rig Development,"CryptoCraft Studio, MineTech Solutions, RigRover Innovations",79
+Video Making/Editing & Content Creation,"ContentCraft Studio, VideoMagic Productions, CreateIt Solutions",88
+Website Content,"ContentCraft Studio, WebEase Solutions, WriteRight Writers",87
+Digital Marketing Content Creation,"DigitalMagic Productions, ContentCraft Studio, BoostPro Creations",82
+Content Writing (Indian Movie Reviews),"MovieMastery Writers, CineCritics Inc., BollywoodBytes Creations",74
+Article Writing (Top 20 Type Of IT Articles),"TechTop Writers, ArticleMasters Inc., ITInsight Creations",90
+Research: Find Celebrities Of Your Choice,"CelebResearch Solutions, StarSearch Inc., FameFind Innovations",76
+Content Writing (Biographies),"BioGenius Writers, LifeStory Creations, BioCraft Studio",81
+Content Writing (Article Writing),"ArticleCraft Studio, ContentWise Writers, WriteRight Innovations",89
+Creative Writing (TV Serial Stories),"SerialTales Writers, TVDrama Creations, StoryCraft Studio",83
+Content Writing (IT),"ITInsight Writers, TechCraft Creations, WriteRight Innovations",88
+Article Writing (Thai & Chinese Celebrities),"AsianCeleb Writers, StarSearch Asia, FameFind Innovations",85
+Content Writing (Cricket),"CricketCraft Studio, CricketWriters Inc., SportsScript Innovations",77
+Finance And Advertising,"FinAd Solutions, MarketMasters Inc., AdFinance Innovations",84
+Sales And Business Relations,"SalesPro Solutions, BusinessBonds Inc., RelationBuilders Innovations",80
+Manual Data Review & Audit,"DataAudit Solutions, ManualReview Inc., VerifyTech Innovations",78
+AutoCAD Content Creation,"CADCraft Studio, AutoCAD Creations, DesignTech Innovations",82
+Culinary Arts,"ChefCraft Academy, GourmetGuru Solutions, TasteTech Innovations",89
+Physiotherapy - Subject Matter Expert,"PhysioExpert Solutions, HealthHeal Inc., RehabRight Innovations",87
+Survey Executive,"SurveyMaster Solutions, OpinionPoll Inc., DataDriven Ventures",85
+Graphic Design Cum Video Editing,"DesignMagic Studio, VideoGenius Productions, GraphicTech Innovations",80
+Social Media Marketing & Video Editing,"SocialMagic Media, VideoGenius Creations, MediaTech Innovations",86
+"Copywriting, Content Writing, Social Media Post Content","ContentCraft Studio, CopyCraft Solutions, PostPro Innovations",91
+Content Writing (English),"WriteRight Writers, ContentCraft Studio, LanguageLever Innovations",89
+Desktop Support Engineering,"DesktopMaster Solutions, TechSupport Inc., ITTech Innovations",84
+Graphics Design,"DesignGenius Studio, GraphiCraft Solutions, ArtTech Innovations",79
+Growth & Content Marketing,"GrowthCraft Solutions, ContentBoost Creations, MarketMagnet Innovations",87
+Business Research,"BizInsight Solutions, MarketMetrics Inc., DataDriven Ventures",85
+Proofreading Physics,"PhysicsPro Solutions, ProofReaders Inc., WriteRight Innovations",82
+Shreem IOS App Marketing,"ShreemTech Solutions, iOSAppBoost Inc., AppMasters Innovations",78
+Subject Matter Expert (Geography),"GeoGenius Solutions, GeographyGuru Inc., MapMasters Innovations",84
+Research And Development (Voter Analysis),"VoteInsight Solutions, ResearchRapid Inc., DataDriven Ventures",87
+Strategic Digital Marketing,"StratBoost Solutions, DigitalCraft Studio, MarketMagnet Innovations",81
+Embedded  Electrical Engineering,"EmbeddedTech Solutions, ElectricGenius Inc., TechCraft Innovations",90
+Mobile App Development (Flutter),"FlutterWorks Studio, AppGenius Inc., MobileMagic Innovations",85
+Entrepreneur In Residence,"EntrepreneurCraft Solutions, BusinessBooster Inc., StartUpMasters Innovations",88
+Legal Content Research,"LegalCraft Studio, LawInsight Solutions, LegalEase Innovations",82
+Finance (Core Super-Specialized),"CoreFinance Solutions, FinancialGuru Inc., MoneyMasters Innovations",89
+Corporate Marketing (B2B),"B2BMarketing Solutions, BusinessBoosters Inc., MarketMasters Innovations",83
+"Studio Management, Reception Management","StudioMaster Solutions, ReceptionCraft Studio, AdminEase Innovations",80
+YouTube Anchoring,"TubeStars Studio, VlogMaster Inc., ChannelCraft Innovations",85
+Brand Graphic Designing & Video Editing,"BrandCraft Studio, VideoGenius Productions, GraphicTech Innovations",81
+Fashion Design & Graphics,"FashionCraft Studio, DesignGenius Inc., StyleTech Innovations",88
+Product Development (Mechanical),"ProductCraft Studio, MechGenius Inc., DesignTech Innovations",86
+Mechatronics  Engineering,"MechTech Solutions, RoboCraft Inc., TechCraft Innovations",92
+Social Media Marketing (Facebook Ads),"SocialBoost Marketing, AdReach Solutions, FBGenius Inc.",87
+Teaching (Robotics & STEM),"STEMTeach Solutions, RobotCraft Studio, TechMasters Innovations",89
+HR & Marketing,"HRPro Solutions, MarketMagnet Inc., HRBoost Innovations",83
+Social Media Marketing & Online Marketing,"SocialMagnet Solutions, OnlineBoost Inc., MarketMasters Innovations",87
+Finance & Audit,"FinanceCraft Solutions, AuditMasters Inc., MoneyMagnet Innovations",84
+Subject Matter Expert (Economics, Statistics And Probability,88
+Podcast Hosting,"PodCastPro Solutions, MediaMaster Inc., AudioTech Innovations",86
+Content Writing(Tennis),"TennisCraft Studio, WriteRight Writers, SportsScript Innovations",82
+Anchoring(Voiceover) & Video Editing,"Media House, Creative Studios, VoiceWorks",72
+Event Coordination & Community Management,"EventPro, Community Builders Inc, Social Impact Solutions",68
+Arduino/IoT Training,"Tech Labs, Innovation Hub, IoT Experts",78
+Mechanical & Robotics Analysis,"MechaWorks, RoboTech Solutions, Mechanical Dynamics",80
+Physiotherapy,"HealthCare Center, PhysioFit, Sports Rehab Clinic",76
+Field Sales (Bangalore Only),"Bangalore Sales Solutions, FieldForce, Urban Sales Co.",65
+Virtual Assistance (Lead Generation & Prospecting),"VirtualGenie, LeadPro, ProAssist",70
+Catalog,"Catalog Solutions, OnlineMart, Product Cataloging Inc.",62
+Subject Matter Expert (Botany),"Botanical Labs, BioTech Solutions, Green Sciences Institute",79
+Subject Matter Expert (Advance Mathematics),"MathWorks, AdvancedMath Inc., Mathematics Institute",82
+Lead Generation (Marketing),"LeadGen Inc., MarketingPros, SalesLeads",74
+Sales And Digital Marketing,"SalesMasters, Digital Domination, MarketingPro",87
+Content Writing/Blogging,"ContentWorks, BlogPro, WordSmiths",83
+Content Writing (Telugu),"TeluguWriters, LocalContentPro, Vernacular Content Solutions",76
+Logo Design,"DesignMasters, LogoCrafters, BrandArtistry",79
+Marketing And HR Analysis,"MarketHR, Analytics360, HRInsight",75
+Business Development (Field Work),"FieldSales Inc., BizDev Experts, FieldForce Solutions",73
+Human Resources (HR) & Operations,"HRWorks, OperationsPro, HR Operations Inc.",81
+Teaching (French),"French Academia, Language Masters, EduFren",77
+Project Training,"ProjectPro, TrainingWorks, SkillBuild",68
+Business & Strategy,"BizStrat Solutions, StrategyWorks, Business Mastery Inc.",80
+Media Buying,"MediaMasters, AdInvest, MediaBuyers Inc.",72
+Autocad design,"AutoDesigners, CAD Creators, DraftWorks",78
+Marketing And Business Development,"MarketingWorks, BusinessPros, Sales and Marketing Experts",86
+Digital Marketing And Ecommerce,"DigitalMasters, eCommercePro, Marketing Solutions Inc.",84
+Mass Communication,"MassComm Institute, MediaWorks, Communication Experts",79
+Video And Graphic Editing,"MediaWorks, DesignPro, VideoEdit Experts",81
+Content Review,"ReviewPro, ContentCheck, Editorial Services",77
+Archaeology Event Management,"ArchaeoWorks, EventMasters, History Events Inc.",76
+Sales And Strategy,"SalesMasters, StrategyPros, Sales Strategy Inc.",82
+Internshala Dashboard Management,"Internshala, Dashboard Solutions, Internship Inc.",70
+Influencer Outreach,"InfluencerMasters, OutreachPro, Influence Solutions",74
+Mobile/Web App Software Engineering,"AppWorks, WebMasters, Software Solutions Inc.",83
+Backend Development (Java),"JavaMasters, BackendPros, Dev Solutions Inc.",85
+Graphics & Video Design,"DesignMasters, VideoWorks, Artistry Inc.",79
+Counseling,"Counseling Experts, MindMasters, Wellness Solutions",78
+Content Writing (Food & Education),"FoodWriters, EduContentPro, Content Cuisine",80
+.Net - Full Stack Development,"DotNetMasters, FullStackPro, DotNet Solutions",82
+Content And Social Media Marketing,"ContentMasters, SocialPro, Marketing Solutions Inc.",84
+Robotics & IoT,"RoboTech Solutions, IoT Masters, Robotics Innovations",88
+Freight Broker,"FreightWorks, BrokerPro, Logistics Solutions Inc.",76
+Content Development (Mathematics & Science),"MathSci Content, ScienceWorks, Math and Science Pro",81
+Design Merchandising,"DesignMasters, MerchandisingPro, Brand Design Inc.",79
+"Content Writing (Finance, Marketing, Law, HR Research)","ContentMasters, ResearchWriters, Domain Experts",85
+Operations And Category,"OperationsWorks, CategoryPro, Ops Solutions Inc.",80
+Power Electronics Engineering,"PowerTech Solutions, ElectronicsPro, Electrical Engineering Experts",82
+Dev Ops Internship,"DevOpsWorks, InternshipPro, DevOps Solutions Inc.",78
+System Administration - Windows,"SystemAdmins, WindowsWorks, IT Solutions Inc.",80
+Business Management & Administration,"BizMasters, AdminWorks, Management Solutions Inc.",84
+ASP.NET Development,"ASPNetMasters, WebDevPro, ASPNet Solutions",83
+Advanced Excel Operations for Transaction Categorization,"ExcelMasters, TransactionPro, Excel Solutions Inc.",79
+Human Resources (HR) - Candidate Branding & Onboarding,"HRWorks, BrandingPro, Onboarding Solutions Inc.",86
+Virtual Reality Unity 3D Development,"VRWorks, UnityDevPro, VR Solutions Inc.",85
+Social Media & Influencer Marketing,"SocialMasters, InfluencePro, Marketing Solutions Inc.",88
+Video Making/Editing And Graphic Design,"MediaWorks, DesignPro, VideoEdit Experts",81
+Field Reporting & Copy Writing,"FieldWorks, CopyPro, Reporting Solutions Inc.",76
+Networking Information Technology,"NetMasters, ITPro, Networking Solutions Inc.",83
+Market Research Analyst,"MarketMasters, ResearchPro, Market Research Inc.",85
+Travel & Tourism,"TravelWorks, TourismPro, Travel Solutions Inc.",79
+Presentation Design,"DesignMasters, PresentationPro, Artistry Inc.",82
+Loan File Verification,"LoanWorks, VerificationPro, Finance Solutions Inc.",77
+Medical Device Design Engineering (3D Modeling - SolidWorks),"MedTech Solutions, DesignPro, Engineering Innovations",84
+Telecalling/BDE,"TeleWorks, SalesPro, Telecalling Solutions Inc.",76
+YouTube Video Making,"VideoWorks, YouTuberPro, Video Solutions Inc.",82
+NGO Assistance,"NGO Support, CharityWorks, Social Impact Solutions",75
+Kotlin Development,"KotlinMasters, DevPro, Development Solutions Inc.",80
+Video Creation (Female),"VideoWorks, WomenCreators, Video Solutions Inc.",79
+Operations And Customer Onboarding,"OperationsWorks, OnboardingPro, Ops Solutions Inc.",82
+Field Sales Executive,"FieldSales Inc., SalesPro, Field Sales Solutions",77
+Law,"LegalWorks, LawMasters, Legal Solutions Inc.",85
+Social Media Design,"SocialMasters, DesignPro, Media Solutions Inc.",80
+Mobile Development,"AppWorks, MobileDevPro, Development Solutions Inc.",82
+Content Writing (Startup Finance),"ContentWorks, FinancePro, Writing Solutions Inc.",78
+F&B Sales,"F&B Sales Solutions, RestaurantPros, Food Sales Inc.",79
+Business Analyst,"BusinessWorks, AnalystPro, Business Solutions Inc.",83
+Knowledge Management,"KnowledgeWorks, ManagementPro, Knowledge Solutions Inc.",82
+Social Media Graphic Design,"SocialMasters, DesignPro, Media Solutions Inc.",81
+B2B Marketplace,"B2B Solutions, MarketPro, Business Solutions Inc.",85
+Content Writing (Technical & Non-Technical),"ContentWorks, TechPro, Writing Solutions Inc.",82
+Full Stack Engineering (MERN Stack),"FullStack Solutions, MERNPro, Development Solutions Inc.",87
+Product Management Trainee,"ProductMasters, TraineePro, Product Solutions Inc.",80
+News Anchoring,"NewsWorks, AnchorPro, Media Solutions Inc.",79
+Social Media Strategy & Research,"SocialMasters, StrategyPro, Media Solutions Inc.",84
+Operations & Project Management,"OperationsWorks, ProjectPro, Ops Solutions Inc.",83
+Story Board Art,"ArtWorks, StoryPro, Design Solutions Inc.",78
+Subject Matter Expert (SME)- Mechanical Engineering,"MechMasters, SMEPro, Engineering Solutions Inc.",86
+Subject Matter Expert (SME) - Accounting,"AccountingMasters, SMEPro, Finance Solutions Inc.",88
+"Sales, Marketing & Operation","SalesWorks, MarketingPro, Operations Solutions Inc.",84
+Content Development (Physics),"PhysicsWorks, ContentPro, Science Solutions Inc.",81
+Full Stack Mern Development,"FullStack Solutions, MERNPro, Development Solutions Inc.",87
+Business Development (Sales) Sales for AI Product,"BizDev Works, AISalesPro, Sales Solutions Inc.",82
+Social Media- Research And Marketing,"SocialMasters, ResearchPro, Marketing Solutions Inc.",85
+Graphic Design & 3D Design,"DesignMasters, 3DPro, Artistry Inc.",81
+Digital Marketing Analysis (PPC),"DigitalMasters, PPCPro, Marketing Solutions Inc.",83
+Human Resources (HR) - Talent Acquisition,"HRWorks, TalentPro, HR Solutions Inc.",86
+Social Media Outreach,"SocialMasters, OutreachPro, Media Solutions Inc.",82
+Marketing And Research,"MarketingWorks, ResearchPro, Marketing Solutions Inc.",85
+"Subject Matter Expert (Accounts, Mechanical Engineering)","SMEWorks, SMEPro, Solutions Inc.",88
+Subject Matter Expert (SME) - Computer Science,"SMEWorks, ComputerPro, Solutions Inc.",86
+Social Media Video Making,"SocialMasters, VideoPro, Media Solutions Inc.",84
+Customer Relationship Management (CRM),"CRM Solutions, RelationshipPro, Business Solutions Inc.",83
+Fortnite UEFN Development,"FortniteWorks, UEFNPro, Gaming Solutions Inc.",79
+Quality Analyst,"Tech Solutions, Quality Co., Testers Inc.",60
+Customer Relationship Management/Client Servicing,"Customer Care Ltd, CRM Solutions Inc., ClientServ Corp.",80
+Full Stack NEXT Development,"NEXT Corp, Stack Solutions, DevCo",90
+Content Writing (Medical),"MediWrite Inc, HealthContent Solutions, DocuText Corp.",70
+Sketch Art/Digital Art Deisgn,"Art Design Co., Sketchers Inc, Digital Creatives",85
+Executive Assistance,"AssistMe Inc, ExecuHelp Solutions, Admin Pro",65
+Web Design (AI),"AIDesign Corp, WebTech Solutions, AIWeb Creations",95
+Video Editing (Instagram/YouTube),"InstaEdit Inc, YouTuber Solutions, VidPro",75
+Business Consulting (MSME),"BusinessSolve Inc, MSME Solutions, Consultify Corp.",80
+O&M (Solar Engineering),"Solar Ops Inc, Energy Maintenance Solutions, SolEng Co.",70
+Embedded Firmware Development,"Firmware Co., Embedded Solutions Inc, DevFirm Corp.",85
+Execution Assistance,"Execution Pro, Assistify Inc, TaskHelp Solutions",65
+NEXT.js AI Development,"NEXT AI Co., DevAI Solutions, AIWeb Technologies",90
+Financial/Credit Analyst,"FinancePro Inc, CreditWatch Solutions, FinAnalyzers",75
+UI UX Design/Graphic Design,"UI/UX Designers Ltd, Graphic Solutions Inc, CreatiTech Co.",85
+Flutter Developement,"Flutter Devs Inc, DevFlutter Solutions, AppTech Corp.",80
+Node JS Developement,"NodeDev Corp, JS Solutions Inc, DevNode Technologies",90
+HR/Talent Acquisition/Recruitment/Hiring,"HR Solutions Ltd, TalentFind Inc, Recruitify Co.",75
+Digital Marketing And Business Development,"DigitalMarketer Inc, BizDev Solutions, MarketingTech",80
+Unreal Game Development,"Unreal Devs Inc, Game Solutions Ltd, Unreal Co.",85
+Unity Game Developing,"Unity Devs Corp, GameDev Solutions, Unity Technologies",90
+Embedded Engineering,"Embedded Engineers Ltd, Engineering Solutions Inc, EmbedTech",85
+Mechanical Engineering (Subject Matter Expert),"Mechanical Experts Inc, Engineering Pro Ltd, MechTech Corp.",95
+Electrical Engineering (Subject Matter Expert),"Electrical Experts Ltd, ElecSolutions Inc, Electric Tech Co.",95
+Digital Marketing For US Based Nonprofit Organization,"US Nonprofit Marketing, Digital Impact Solutions, CharityTech",80
+Student - Business Development,"Student Business Dev Ltd, Business Development Pro, EduBiz Corp.",70
+Subject Matter Expert (SME) - Statistics & Probability,"Stat Pro Solutions, ProbExpert Inc, MathTech Corp.",85
+AppSmith Development,"AppSmith Inc, Smith Solutions Ltd, AppDev Technologies",75
+Fashion Consultation,"Fashion Consult Inc, Style Solutions Ltd, FashionTech Corp.",80
+Data Entry/Office Assistant,"DataEntry Inc, Office Assist Solutions, DataTech Co.",70
+Production,"Production Co., Producers Inc, ManufactureTech Ltd",75
+IT Assistant,"IT Assist Solutions, Tech Pro Inc, ITTech Ltd",65
+Cricket Commentator (Twitter),"Twitter Cricket, Sports Media Solutions, CricketFans Inc",60
+Financial Planning & Operations,"FinanceOps Inc, Financial Pro Solutions, FinTech Corp.",80
+Video Editing & Graphic Design,"VideoGFX Inc, EditGraphics Solutions, VidDesign Tech",75
+HR (Recruitment),"HR Recruitment Ltd, Talent Solutions Inc, RecruitTech Corp.",70
+Mobile App Development (Android),"Android Devs Ltd, Mobile Solutions Inc, AppTech Co.",90
+Sales Development Representative (SDR),"SalesRep Solutions, SalesDev Pro, SalesTech Corp.",80
+Data ETL And UI Creation,"DataUI Inc, ETL Solutions Ltd, DataTech Co.",75
+Executive Assistance/Project Management,"ExecPro Solutions, Project Assist Ltd, ProjectTech Inc",70
+Quality Control And Documentation,"QC Solutions Inc, QualityDocs Ltd, QualityTech Corp.",65
+Student Engagement,"Student Engage Solutions, EngageTech Inc, EduEngage Co.",70
+Sales And Email Marketing,"SalesEmail Solutions, Marketing Pro Inc, SalesMarketing Ltd",75
+Artificial Intelligence & Machine Learning,"AITech Solutions, ML Pro Inc, AI and ML Technologies",90
+Executive To The CPTO,"ExecCPTO Solutions, Tech Pro Inc, CPTOTech Ltd",80
+Aerospace Design (Sourcing & Development),"AeroDesign Solutions, AeroSourc Ltd, AeroTech Inc.",85
+Content Strategy & Growth Hacking,"ContentGrowth Inc, Strategy Solutions Ltd, GrowthHackers Corp.",75
+Email Marketing And Market Research,"EmailMark Research, Marketing Pro Inc, EmailTech Solutions",70
+Social Media & Public Relations (PR),"SocialPR Inc, Media Relations Ltd, PR Solutions Co.",80
+Non-Medical Assistance For Elderly,"ElderCare Solutions, Assisting Seniors Inc, ElderTech Ltd",75
+HR Trainee/HR Executive,"HR Trainee Solutions, HR Pro Inc, HR and Talent Technologies",70
+"Business Development, Sales & Marketing","BizDev Sales Solutions, Marketing Pro Inc, SalesTech Co.",85
+7-Day Virtual Charity Drive,"7Day Charity Drive, Virtual Impact Solutions, CharityTech Ltd",75
+Video Editing (3D Graphic Motion),"3DMotion Video, EditGraphics Solutions, VidDesign Tech",80
+Instagram Management,"InstaManage Solutions, SocialMedia Pro Inc, InstaTech Ltd",85
+Digital Marketing - Instagram Influencer Marketing,"Digital Insta Marketing, Influencer Solutions Ltd, InstaTech Co.",90
+Legal Research/Legal Article Writing,"LegalResearch Solutions, LegalWriters Inc, LegalTech Ltd",75
+Podcast Hosting & Video Content Creation,"PodcastMedia Solutions, VideoCast Pro Inc, MediaTech Ltd",70
+News Anchoring/Eco-Reporing,"NewsAnchor Solutions, EcoReport Inc, MediaTech Ltd",65
+Sales Specialist,"SalesSpecialist Solutions, Sales Pro Inc, SalesTech Ltd",60
+Product Marketing (Sales/Marketing) – Males Only,"ProductMarketing Solutions, Marketing Pro Inc, SalesTech Ltd",65
+Research and Presentation (History),"HistoryResearch Solutions, History Pro Inc, ResearchTech Ltd",70
+Customer Service (Outbond Calls),"OutboundCS Solutions, Customer Care Inc, SalesTech Ltd",75
+Customer Service (Inbound Calls),"InboundCS Solutions, Customer Care Inc, SalesTech Ltd",80
+OpenAI TypeScript SDK Development,"OpenAI TypeScript Solutions, Dev Pro Inc, AI and ML Technologies",85
+Tech Journalism,"TechJournalism Solutions, Media Pro Inc, MediaTech Ltd",90
+Social Media Marketing & Research,"SocialMedia Research, Marketing Pro Inc, SocialTech Solutions",75
+Office Assistance,"Office Assist Solutions, Admin Pro Inc, OfficeTech Ltd",80
+Next.js Development,"Next Dev Solutions, Dev Pro Inc, DevTech Ltd",85
+Digital Marketing/SEO,"DigitalSEO Solutions, Marketing Pro Inc, DigitalTech Ltd",90
+Photo Editing,"PhotoEdit Solutions, EditGraphics Inc, PhotoTech Ltd",85
+Helpdesk Operations,"Helpdesk Solutions, Tech Support Pro Inc, SupportTech Ltd",80
+Python/Django & React Engineering,"PythonReact Solutions, Dev Pro Inc, DevTech Ltd",75
+Clients Relationship,"ClientRel Solutions, Sales Pro Inc, SalesTech Ltd",70
+Product Testing,"ProductTest Solutions, Quality Pro Inc, QualityTech Ltd",65
+Field Sales Trainee,"FieldSales Solutions, Sales Pro Inc, SalesTech Ltd",60
