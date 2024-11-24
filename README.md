@@ -1,4 +1,4 @@
-# ML-Pupils
+# Internship Recommendor
 Title: Internship Opportunity Recommendor and Skill Planner
 
 Note: app.py is used to start Flask server for project deployment
